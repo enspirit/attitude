@@ -1,0 +1,21 @@
+template-info:
+  name: "polygon.noe"
+  version: 0.1.0
+  manifest:
+    content/dynamic/index.md:
+      ignore: true
+variables:
+  url: www.balletschoolattitude.be
+  title: Balletschool Attitude
+  team:
+    - title:    Owner
+      name:     Ingrid Fonteyne
+      site:     www.balletschoolattitude.be
+      location: Kampenhout, Belgium
+    - title:    Developer
+      name:     Bernard Lambeau
+      site:     blambeau at gmail
+      twitter:  blambeau
+      location: Namur, Belgium
+  bootstrap:
+    responsive: false

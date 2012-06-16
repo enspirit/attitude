@@ -1,0 +1,17 @@
+lang: |-
+  en
+title: |-
+  Balletschool Attitude
+description: |-
+  Balletschool Attitude
+keywords:
+  - Balletschool
+google:
+  tracker:
+menu:
+  - {url: balletschool,   label: Balletschool}
+  - {url: balletstudio,   label: Balletstudio}
+  - {url: dansrichtingen, label: Dansrichtingen}
+  - {url: docenten,       label: Docenten}
+  - {url: voorstellingen, label: Voorstellingen}
+content: ''

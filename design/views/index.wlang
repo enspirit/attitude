@@ -1,0 +1,14 @@
+<div id="main" class="container">
+  <header>
+    <nav class="row">
+      *{menu}{
+        <span class="span2"><a href="${url}">${label}</a></span>
+      }
+    </nav>
+  </header>
+  <div id="text" class="row">
+    <div class="offset4 span7">
+      ~{content}
+    </div>
+  </div>
+</div>
