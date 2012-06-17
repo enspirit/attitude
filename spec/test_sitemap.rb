@@ -5,7 +5,7 @@ describe "/sitemap.xml" do
     get '/sitemap.xml'
   end
 
-  it 'respond' do
+  it 'responds' do
     status.should == 200
     content_type.should =~ %r{application/xml}
   end
@@ -14,10 +14,22 @@ describe "/sitemap.xml" do
     body.should =~ %r{<url>}
   end
 
-  it 'contains valid urls only' do
+  it 'contains expected urls' do
+    urls = []
     body.scan %r{<loc>http://[^\/]+/(.*)</loc>} do |match|
-      head "/#{match.first}"
-      status.should == 200
+      urls << match.first
+    end
+    expected = database.sitemap.to_rel.project([:path])
+    got      = Relation(:path => urls)
+    pending{ got.should eq(expected) }
+  end
+
+  database.sitemap.each do |tuple|
+    url = tuple[:path]
+
+    describe url do
+      before { head(url)            }
+      specify{ status.should == 200 }
     end
   end
 

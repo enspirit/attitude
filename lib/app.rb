@@ -15,8 +15,13 @@ class App < Polygon::Base
     wlang :index, :locals => page_locals('balletschool')
   end
 
-  get "/:page" do
-    wlang :index, :locals => page_locals(params[:page])
+  get "/*" do
+    path = params[:captures].first || 'balletschool'
+    if locals = page_locals(path)
+      wlang :index, :locals => locals
+    else
+      not_found
+    end
   end
 
 end

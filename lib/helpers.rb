@@ -1,33 +1,18 @@
 module Helpers
 
-  def entry2path(entry)
-    path = entry.relative_path.rm_ext
-    path = entry.index? ? path.parent : path
-    path == Path('.') ? Path("") : path
-  end
-
-  def sitemap
-    entry2path = lambda{|f| entry2path(f) }
-    lispy do
-      (extend :entries,
-              :path    => proc{ entry2path.call(entry)                },
-              :lastmod => proc{ entry.path.mtime.strftime("%Y-%m-%d") })
-    end
-  end
-
   def sitemap_locals
-    { :urls => sitemap }
+    { :urls => database.sitemap }
   end
 
-  def page_locals(path)
-    sitemap = self.sitemap
+  def page_locals(path = "")
     rel = lispy do
       (unwrap \
-        (extend (restrict sitemap, :path => Path(path)),
+        (extend (restrict :sitemap, :path => path),
                 :data => lambda{ entry.to_hash }),
         :data)
     end
-    rel.to_a.first
+    rel && rel.to_a.first
   end
+  alias :index_locals :page_locals
 
 end

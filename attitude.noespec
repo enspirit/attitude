@@ -8,6 +8,8 @@ template-info:
       safe-override: false
     content/static/css/bootstrap-responsive.min.css:
       safe-override: false
+    lib/helpers.rb:
+      safe-override: true
 variables:
   url: www.balletschoolattitude.be
   title: Balletschool Attitude
