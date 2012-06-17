@@ -7,7 +7,7 @@
     </nav>
   </header>
   <div id="text" class="row">
-    <div class="offset4 span7">
+    <div class="offset4 span6">
       ~{content}
     </div>
   </div>

@@ -1,6 +1,6 @@
 body{margin-top:30px;}
 #main{background:url('img/background.gif') no-repeat;min-height:600px;}
-header nav{font-family:Tahoma,sans-serif;font-size:1.4em;text-align:center;margin-left:50px;}header nav span{padding:10px;background:#b574ba;}
+header nav{font-family:Tahoma,sans-serif;font-size:1.4em;text-align:center;margin-left:50px;}header nav span{padding-top:10px;padding-bottom:10px;background:#b574ba;}
 header nav span a,header nav span a:visited{color:black;}
 header nav span a:hover{color:white;text-decoration:none;}
 #text{padding-top:150px;font-size:1.2em;text-align:justify;}#text h1{padding:10px 0px;}

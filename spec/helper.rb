@@ -11,6 +11,10 @@ RSpec.configure do |c|
     App
   end
 
+  def database
+    app.settings.database
+  end
+
   def internal?(link)
     link && !(link =~ /^(https?|ftp|mailto):/) && !(link =~ /ajax.googleapis.com/)
   end
