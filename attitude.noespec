@@ -4,6 +4,10 @@ template-info:
   manifest:
     content/dynamic/index.md:
       ignore: true
+    content/static/css/bootstrap.min.css:
+      safe-override: false
+    content/static/css/bootstrap-responsive.min.css:
+      safe-override: false
 variables:
   url: www.balletschoolattitude.be
   title: Balletschool Attitude
