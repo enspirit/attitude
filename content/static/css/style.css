@@ -9,7 +9,7 @@ body {
 }
 header nav {
   font-family: Tahoma, sans-serif;
-  font-size: 1.4em;
+  font-size: 18px;
   text-align: center;
   margin-left: 50px;
 }
@@ -23,11 +23,11 @@ header nav span a:visited {
   color: #333333;
 }
 header nav span a:hover {
-  color: white;
+  color: black;
   text-decoration: none;
 }
 header nav span.highlight a {
-  color: black;
+  color: white;
 }
 #text {
   padding-top: 150px;
@@ -42,8 +42,16 @@ header nav span.highlight a {
 #text li {
   line-height: 21px;
 }
-#text h1 {
+#text ul {
+  margin-left: 45px;
+}
+#text h1,
+#text h2 {
   padding: 10px 0px;
+  font-variant: small-caps;
+}
+#text h2 {
+  font-size: 22px;
 }
 #text nav {
   margin-top: 220px;
