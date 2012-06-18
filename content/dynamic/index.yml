@@ -9,9 +9,12 @@ keywords:
 google:
   tracker:
 menu:
-  - { url: balletschool,   label: Balletschool}
-  - { url: balletstudio,   label: Balletstudio}
-  - { url: dansrichtingen, label: Dansrichtingen}
-  - { url: docenten,       label: Docenten}
-  - { url: voorstellingen, label: Voorstellingen}
-content: ''
+  - { url: balletschool,   label: Balletschool   }
+  - { url: balletstudio,   label: Balletstudio   }
+  - { url: dansrichtingen, label: Dansrichtingen }
+  - { url: docenten,       label: Docenten       }
+  - { url: voorstellingen, label: Voorstellingen }
+layout:
+  columns
+content:
+  ''

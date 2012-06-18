@@ -29,45 +29,58 @@ header nav span a:hover {
 header nav span.highlight a {
   color: white;
 }
-#text {
+#main {
   padding-top: 150px;
   font-size: 1.2em;
   text-align: justify;
 }
-#text p,
-#text ul {
+#main p,
+#main ul {
   padding-top: 7px;
 }
-#text p,
-#text li {
+#main p,
+#main li {
   line-height: 21px;
 }
-#text ul {
+#main ul {
   margin-left: 45px;
 }
-#text h1,
-#text h2 {
+#main h1,
+#main h2 {
   padding: 10px 0px;
   font-variant: small-caps;
 }
-#text h2 {
+#main h2 {
   font-size: 22px;
 }
-#text nav {
+#main nav {
   margin-top: 220px;
   text-align: right;
 }
-#text nav span {
+#main nav span {
   display: block;
   padding-top: 4px;
   padding-bottom: 4px;
 }
-#text nav span a,
-#text nav span a:visited {
+#main nav span a,
+#main nav span a:visited {
   color: #b574ba;
 }
-#text nav span.highlight a {
+#main nav span.highlight a {
   font-weight: bold;
+}
+#main .full h1 {
+  text-align: center;
+}
+#uurrooster {
+  background: white;
+  opacity: 0.9;
+}
+#uurrooster td,
+#uurrooster th {
+  text-align: center;
+  width: 120px;
+  font-size: 14px;
 }
 footer {
   text-align: center;

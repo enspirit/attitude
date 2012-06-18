@@ -1,0 +1,5 @@
+<div class="row full">
+  <div class="span10">
+    ~{content}
+  </div>
+</div>

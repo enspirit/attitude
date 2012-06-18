@@ -7,18 +7,7 @@
 </header>
 
 <div id="main" class="container">
-  <div id="text" class="row">
-    <nav class='span4'>
-      #{submenu}{
-        *{self}{
-          <span id="link-${url}"><a href="${url}">${label}</a></span>
-        }
-      }
-    </nav>
-    <div class="span6">
-      ~{content}
-    </div>
-  </div>
+  >{layouts/${layout}}
 </div>
 
 <footer class='container'>
