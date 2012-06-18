@@ -29,4 +29,4 @@
   design: <a href='http://www.chefbe.net' target='_blank'>chefbe.net</a>
 </footer>
 
-<script>var highlight = +{highlight.to_json};</script>
+#{highlight}{<script>var highlight = +{highlight.to_json};</script>}
