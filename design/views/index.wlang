@@ -1,14 +1,32 @@
+<header class='container'>
+  <nav class="row">
+    *{menu}{
+      <span id="link-${url}" class="span2"><a href="/${url}/">${label}</a></span>
+    }
+  </nav>
+</header>
+
 <div id="main" class="container">
-  <header>
-    <nav class="row">
-      *{menu}{
-        <span class="span2"><a href="${url}">${label}</a></span>
+  <div id="text" class="row">
+    <nav class='span4'>
+      #{submenu}{
+        *{self}{
+          <span id="link-${url}"><a href="${url}">${label}</a></span>
+        }
       }
     </nav>
-  </header>
-  <div id="text" class="row">
-    <div class="offset4 span6">
+    <div class="span6">
       ~{content}
     </div>
   </div>
 </div>
+
+<footer class='container'>
+  <hr class='row'/>
+  &copy; 2012 Balletschool Attitude &mdash; 
+  Stationsstraat 36, 1910 Kampenhout &mdash; 
+  ingrid.fonteyne@telenet.be &mdash; 
+  design: <a href='http://www.chefbe.net' target='_blank'>chefbe.net</a>
+</footer>
+
+<script>var highlight = +{highlight.to_json};</script>

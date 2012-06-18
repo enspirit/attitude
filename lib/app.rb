@@ -15,10 +15,11 @@ class App < Polygon::Base
     wlang :index, :locals => page_locals('balletschool')
   end
 
-  get "/*" do
+  get %r{/(.*)} do
     path = params[:captures].first || 'balletschool'
+    path = path[0...-1] if path =~ /\/$/
     if locals = page_locals(path)
-      wlang :index, :locals => locals
+      wlang :index, :locals => locals.merge(:highlight => path.split('/'))
     else
       not_found
     end

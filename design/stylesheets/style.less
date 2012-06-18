@@ -1,11 +1,19 @@
+// based on bootstrap with grid
+// @gridColumns:      10;
+// @gridColumnWidth:  73px;
+// @gridGutterWidth:  20px;
+
 @mauve: #B574BA;
+@grey: #333333;
 
 body {
+  color: @grey;
   margin-top: 30px; }
 
 #main{
   background: url('img/background.gif') no-repeat;
-  min-height: 600px; }
+  min-height: 530px;
+  margin-top: 5px; }
 
 header nav {
   font-family: Tahoma, sans-serif;
@@ -16,13 +24,11 @@ header nav {
     padding-top: 10px;
     padding-bottom: 10px;
     background: @mauve;
+    a, a:visited { color: @grey; }
+    a:hover { color: white; text-decoration: none; }
   }
-  span a, span a:visited {
-    color: black;
-  }
-  span a:hover {
-    color: white;
-    text-decoration: none;
+  span.highlight {
+    a { color: black; }
   }
 }
 
@@ -30,8 +36,24 @@ header nav {
   padding-top: 150px;
   font-size: 1.2em;
   text-align: justify;
-
+  p, ul { padding-top: 7px; }
+  p, li { line-height: 21px; }
   h1 {
     padding: 10px 0px; }
+  nav {
+    margin-top: 220px;
+    text-align: right; 
+    span {
+      display: block;
+      padding-top: 4px;
+      padding-bottom: 4px;
+      a, a:visited { color: @mauve; }
+    }
+    span.highlight a { font-weight: bold; }
+  }
 }
 
+footer {
+  text-align: center;
+  a, a:visited { color: @grey; }
+}
