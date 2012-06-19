@@ -4,7 +4,20 @@
   </nav>
   <article class="span6">
     <h1>${title}</h1>
-    <img src="/pictures/${highlight.last}/affiche.jpg">
+    <a id="affiche" href="#" onclick="javascript:openGallery('+{highlight.last}')">
+      <img src="/pictures/${highlight.last}/affiche.jpg">
+      photos
+    </a>
     ~{content}
   </article>
 </div>
+<script>
+  function openGallery(name) {
+    $.get("/galleria/" + name, function(data){
+      $("#galleria-popup").html(data);
+      $("#galleria-popup").modal();
+    });
+    return false;
+  }
+</script>
+<div id="galleria-popup" class="modal hide"/>

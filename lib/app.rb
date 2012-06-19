@@ -11,6 +11,14 @@ class App < Polygon::Base
     wlang :sitemap, :locals => sitemap_locals, :layout => false
   end
 
+  get '/galleria/:gallery' do
+    gallery  = params[:gallery]
+    publicf  = Path(settings.public_folder)
+    pictures = publicf.glob("pictures/#{gallery}/*.jpg")
+    pictures = pictures.map{|f| { :src => "/#{f % publicf}" } }
+    wlang :galleria, :locals => {:pictures => pictures}, :layout => false
+  end
+
   get "/" do
     redirect '/balletschool/'
   end
