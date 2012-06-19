@@ -1,4 +1,5 @@
 ---
+title:  Uurrooster
 layout: full
 ---
 # Uurrooster 2011-2012

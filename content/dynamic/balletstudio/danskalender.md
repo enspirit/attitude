@@ -1,3 +1,6 @@
+---
+title: Danskalender
+---
 De balletschool start op maandag 5 september 2011 en eindigt op zaterdag 30 juni 2012.
 
 ## Vakanties en vrije dagen 2011-2012

@@ -1,4 +1,5 @@
 ---
+title: Dansrichtingen
 submenu:
 - { url: kleuterballet,  label: Kleuterballet vanaf 4 jaar }
 - { url: klassiekballet, label: Klassiek ballet }

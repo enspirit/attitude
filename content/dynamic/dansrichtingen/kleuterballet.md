@@ -1,3 +1,6 @@
+---
+title: Kleuterballet
+---
 Spelenderwijs worden de kleuters voorbereid op het klassieke ballet. Zij krijgen een aan hun niveau aangepast basisprogramma : dansexpressie, muzikaliteit, ritme, ruimtebesef, lichaamsbesef, lenigheid, kracht,...
 
 Groepen:

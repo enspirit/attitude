@@ -1,3 +1,6 @@
+---
+title: Ingrid Fonteyne
+---
 **Ingrid Fonteyne** is een gediplomeerde danspedagoge met een grondige kennis van bewegingsanalyse en anatomie van het lichaam. Zij heeft reeds meer dan 35 jaar ervaring op gebied van danspedagogie en is gespecialiseerd in klassiek ballet en jazzballet. 
 
 °2 juni 1961.

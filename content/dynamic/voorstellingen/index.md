@@ -1,9 +1,10 @@
 ---
+title: Voorstellingen
 submenu:
-- { url: 2011-ijs,             label: IJS  - 2011 }
+- { url: 2011-ijs,             label: IJS - 2011 }
 - { url: 2009-muze,            label: Muze - 2009 }
 - { url: 2007-tarot,           label: Tarot (30 jaar) - 2007 }
-- { url: 2005-vii,             label: VII  - 2005 }
+- { url: 2005-vii,             label: VII - 2005 }
 - { url: 2003-oscar,           label: Oscar - 2003 }
 - { url: 2001-zodiak,          label: Zodiak - 2001 }
 - { url: 1999-groteske,        label: Groteske - 1999 }

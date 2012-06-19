@@ -1,4 +1,5 @@
 ---
+title: Balletstudio - Contact
 submenu:
 - { url: uurrooster,      label: Uurrooster        }
 - { url: kledij-haartooi, label: Kledij + haartooi }

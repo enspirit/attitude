@@ -1,3 +1,6 @@
+---
+title: Tarot (30 jaar) - 2007
+---
 De Tarotkaarten zijn een onuitputtelijke bron van inspiratie op alle gebied. Sommige ontwerpen zijn zo mooi qua vorm en kleur dat ze mij enorm geholpen hebben bij het creëren van de kostuums. De betekenis van de kaarten is voor interpretatie vatbaar. De kaarten waren mijn artistiek uitgangspunt voor dit project.
 
 In het begin van dit optreden nemen we u mee naar de ruïne van een kasteel waar we u laten kennismaken met een waarzegster, een symbolische vraagsteller en de Tarotkaarten zelf.

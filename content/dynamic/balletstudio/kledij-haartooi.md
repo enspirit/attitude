@@ -1,5 +1,6 @@
-# Kledij Schoeisel Haartooi
-
+---
+title: Kledij Schoeisel Haartooi
+---
 ## Kleuterballet - Klassiek ballet
 
 balletpak + balletschoenen

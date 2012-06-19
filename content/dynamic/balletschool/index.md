@@ -1,4 +1,5 @@
 ---
+title: Balletschool Attitude - Kampenhout, Vlaams Brabant
 submenu:
 - { url: mentaliteit,       label: De mentaliteit    }
 - { url: jongens-en-ballet, label: Jongens en Ballet }

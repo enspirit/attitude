@@ -1,3 +1,6 @@
+---
+title: Groteske - 1999
+---
 Titel cfr. Van Dale:
 
 > grotesk’ (<It.), bn. Bw.,

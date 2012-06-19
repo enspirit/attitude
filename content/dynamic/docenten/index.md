@@ -1,4 +1,5 @@
 ---
+title: Docenten
 submenu:
 - { url: ingrid-fonteyne,   label: Ingrid Fonteyne }
 - { url: charlotte-thyssen, label: Charlotte Thyssen }

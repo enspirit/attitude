@@ -1,3 +1,6 @@
+---
+title: Jazzballet
+---
 Ingedeeld volgens leeftijd worden de basistechnieken van jazzballet aangeleerd. Het accent ligt hier vooral op dansbeleving.
 
 Groepen: (vanaf het 3de leerjaar) 
