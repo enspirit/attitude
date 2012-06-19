@@ -5,8 +5,7 @@
   <article class="span6">
     <h1>${title}</h1>
     <a id="affiche" href="#" onclick="javascript:openGallery('+{highlight.last}')">
-      <img src="/pictures/${highlight.last}/affiche.jpg">
-      photos
+      <img src="/pictures/${highlight.last}/affiche.jpg">photos
     </a>
     ~{content}
   </article>
@@ -20,4 +19,4 @@
     return false;
   }
 </script>
-<div id="galleria-popup" class="modal hide"/>
+<div id="galleria-popup" class="modal hide"></div>
