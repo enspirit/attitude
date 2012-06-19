@@ -1,8 +1,6 @@
 require 'polygon'
 require 'helpers'
 
-require 'awesome_print'
-
 class App < Polygon::Base
   helpers Helpers
 
@@ -24,17 +22,12 @@ class App < Polygon::Base
   end
 
   get %r{/(.*)} do
-    serve params[:captures].first || 'balletschool'
-  end
-
-  private
-
-    def serve(path)
-      if locals = page_locals(path)
-        wlang :index, :locals => locals
-      else
-        not_found
-      end
+    path = params[:captures].first || 'balletschool'
+    if locals = page_locals(path)
+      wlang :index, :locals => locals
+    else
+      not_found
     end
+  end
 
 end

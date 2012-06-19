@@ -11,7 +11,7 @@ describe "/" do
   end
 
   it 'contains the expected title' do
-    body.should =~ %r{<title>Balletschool Attitude</title>}
+    body.should =~ %r{<title>Balletschool Attitude}
   end
 
 end
