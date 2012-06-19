@@ -10,11 +10,6 @@ body {
   color: @grey;
   margin-top: 15px; }
 
-#main{
-  background: url('img/background.png') no-repeat;
-  min-height: 420px;
-  margin-top: 2px; }
-
 header nav {
   font-family: Tahoma, sans-serif;
   font-size: 18px;
@@ -37,9 +32,9 @@ header nav {
 }
 
 #main {
-  padding-top: 150px;
   font-size: 1.2em;
   text-align: justify;
+  margin-top: 2px;
   p, ul {
     padding-top: 7px; }
   p, li {
@@ -52,7 +47,7 @@ header nav {
   h2 {
     font-size: 22px; }
   nav {
-    margin-top: 250px;
+    padding-top: 250px;
     text-align: right;
     span {
       display: block;
@@ -62,11 +57,46 @@ header nav {
     }
     span.highlight a { font-weight: bold; }
   }
+  .container {
+    min-height: 420px;
+  }
+  .columns {
+    padding-top: 150px;
+    background: url('img/background.png') no-repeat;
+  }
+  .voorstellingen, .full {
+    background: url('img/background-notext.png') no-repeat;
+    h1 { 
+      text-align: right;
+      font-variant: normal;
+      padding: 20px 0px;
+    } 
+    article { 
+      padding-top: 30px;
+    }
+  }
+  .voorstellingen {
+    nav {
+      min-height: 440px;
+      padding-top: 110px;
+      background: white;
+      opacity: 0.9;
+    }
+    nav img { 
+      width: 200px;
+      padding-top: 20px;
+    }
+    article img {
+      width: 200px;
+      float: right;
+      padding: 10px 0px 0px 20px;
+    }
+  }
+  .full {
+  }
 }
 
-#main .full {
-  h1 { text-align: center; }
-}
+
 #uurrooster {
   td, th {
     text-align: center;

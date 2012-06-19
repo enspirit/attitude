@@ -6,8 +6,10 @@
   </nav>
 </header>
 
-<div id="main" class="container">
-  >{layouts/${layout}}
+<div id="main">
+  <div class="container ${layout}">
+    >{layouts/${layout}}
+  </div>
 </div>
 
 <footer class='container'>

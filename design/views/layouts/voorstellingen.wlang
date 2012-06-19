@@ -3,6 +3,8 @@
     #{submenu}{>{layouts/submenu}}
   </nav>
   <article class="span6">
+    <h1>${title}</h1>
+    <img src="/pictures/${highlight.last}/affiche.jpg">
     ~{content}
   </article>
 </div>
