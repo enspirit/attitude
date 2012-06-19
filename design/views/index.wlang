@@ -21,3 +21,15 @@
 </footer>
 
 #{highlight}{<script>var highlight = +{highlight.to_json};</script>}
+
+<script src="/js/libs/galleria-1.2.7.min.js"></script>
+<script>
+  $(function(){
+    Galleria.loadTheme("/js/libs/galleria.classic.min.js");
+    Galleria.configure({
+        transition: 'fade',
+        imageCrop: true
+    });
+    Galleria.run('#galleria');
+  });
+</script>
