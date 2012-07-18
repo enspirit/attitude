@@ -26,13 +26,7 @@
 
   <script src="/js/plugins.js"></script>
   <script src="/js/script.js"></script>
-</head>
-<body>
-  <!--[if lt IE 7]><p class=chromeframe>Your browser is <em>ancient!</em> <a href="http://browsehappy.com/">Upgrade to a different browser</a> or <a href="http://www.google.com/chromeframe/?redirect=true">install Google Chrome Frame</a> to experience this site.</p><![endif]-->
-
-+{yield}
-
-?{in_production}{#{google.tracker}{
+  ?{in_production}{#{google.tracker}{
   <script type="text/javascript">
     var _gaq = _gaq || [];
     _gaq.push(['_setAccount', '${self}']);
@@ -43,6 +37,12 @@
       var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
     })();
   </script>
-}}
+  }}
+</head>
+<body>
+  <!--[if lt IE 7]><p class=chromeframe>Your browser is <em>ancient!</em> <a href="http://browsehappy.com/">Upgrade to a different browser</a> or <a href="http://www.google.com/chromeframe/?redirect=true">install Google Chrome Frame</a> to experience this site.</p><![endif]-->
+
++{yield}
+
 </body>
 </html>
