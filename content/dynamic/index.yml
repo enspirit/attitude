@@ -7,7 +7,7 @@ description: |-
 keywords:
   - Balletschool
 google:
-  tracker:
+  tracker: UA-3061364-2
 menu:
   - { url: balletschool,   label: Balletschool   }
   - { url: balletstudio,   label: Balletstudio   }
