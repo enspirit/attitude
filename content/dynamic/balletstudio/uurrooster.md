@@ -109,7 +109,7 @@ layout: full
       <td>19.00u - 20.00u</td>
       <td>4e jaar Klassiek</td>
       <td>Keurgroep</td>
-      <td>Modern ballet <br/>12-15 jaar</td>
+      <td>Modern ballet A</td>
       <td>Jazzballet <br/>10-12 jaar</td>
       <td>Jazzballet <br/>15-18 jaar</td>
       <td></td>
@@ -118,7 +118,7 @@ layout: full
       <td>20.00u - 21.00u</td>
       <td>Klassiek gev C</td>
       <td>Keurgroep</td>
-      <td>Modern ballet <br/>+16 jaar en volwassenen</td>
+      <td>Modern ballet B</td>
       <td>Jazzballet <br/>12-15 jaar</td>
       <td>Keurgroep</td>
       <td></td>
