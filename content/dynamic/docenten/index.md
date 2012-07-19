@@ -4,6 +4,7 @@ submenu:
 - { url: ingrid-fonteyne,   label: Ingrid Fonteyne }
 - { url: charlotte-thyssen, label: Charlotte Thyssen }
 - { url: ellen-van-aken,    label: Ellen Van Aken }
+layout: docenten
 ---
 ## De danspedagogie
 

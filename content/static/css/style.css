@@ -67,9 +67,13 @@ header nav span.highlight a {
 #main .container {
   min-height: 420px;
 }
-#main .columns {
+#main .columns,
+#main .docenten {
   padding-top: 150px;
   background: url('img/background.png') no-repeat;
+}
+#main .docenten nav img {
+  padding-top: 80px;
 }
 #main .voorstellingen,
 #main .full {
