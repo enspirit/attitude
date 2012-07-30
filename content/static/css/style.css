@@ -64,6 +64,12 @@ header nav span.highlight a {
 #main nav span.highlight a {
   font-weight: bold;
 }
+#main article img {
+  width: 350px;
+  padding: 10px;
+  margin: auto;
+  display: block;
+}
 #main .container {
   min-height: 420px;
 }

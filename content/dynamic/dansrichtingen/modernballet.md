@@ -7,3 +7,7 @@ Groepen:
 
 * modern 12-15 jaar
 * modern +16 jaar en volwassenen
+
+![Modernballet](/pictures/dansrichtingen/modernballet1.jpg)
+![Modernballet](/pictures/dansrichtingen/modernballet2.jpg)
+![Modernballet](/pictures/dansrichtingen/modernballet3.jpg)

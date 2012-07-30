@@ -32,3 +32,10 @@ Stap voor stap kennismaken met de technieken van het klassieke ballet met aandac
 ## Klassiek ballet Pointes
 
 Leren dansen op spitsen vanaf 15 jaar. Deze les is alleen toegankelijk voor de leerlingen van klassiek gevorderden C en basisgroep.
+
+![Klassiek Ballet](/pictures/dansrichtingen/klassiekballet1.jpg)
+![Klassiek Ballet](/pictures/dansrichtingen/klassiekballet2.jpg)
+![Klassiek Ballet](/pictures/dansrichtingen/klassiekballet3.jpg)
+![Klassiek Ballet](/pictures/dansrichtingen/klassiekballet4.jpg)
+![Klassiek Ballet](/pictures/dansrichtingen/klassiekballet5.jpg)
+![Klassiek Ballet](/pictures/dansrichtingen/klassiekballet6.jpg)
