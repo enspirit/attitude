@@ -5,8 +5,8 @@ Nieuwe dansrichting gebaseerd op de Limón techniek: gewicht verplaatsen, vallen
 
 Groepen:
 
-* modern 12-15 jaar
-* modern +16 jaar en volwassenen
+* modern A (basistechnieken)
+* modern B (gevorderden)
 
 ![Modernballet](/pictures/dansrichtingen/modernballet1.jpg)
 ![Modernballet](/pictures/dansrichtingen/modernballet2.jpg)
