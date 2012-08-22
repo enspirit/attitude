@@ -3,7 +3,7 @@ title: Danskalender
 ---
 Balletschool Attitude start op maandag 3 september 2012 en eindigt op zondag 30 juni 2013.
 
-## Vakanties en vrije dagen 2011-2012
+## Vakanties en vrije dagen 2012-2013
 
 * Herfstvakantie        - van maandag 29/10/12 tot zondag 04/11/12
 * Wapenstilstand        - zondag 11/11/12

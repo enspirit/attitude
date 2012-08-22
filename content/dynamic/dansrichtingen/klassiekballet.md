@@ -5,6 +5,9 @@ title: Klassiek ballet
 
 Deze leerlingen volgen een opbouwend programma met jaarlijkse examens. Het 10de jaar (gevorderden C2) legt examens af voor een jury.
 
+![Klassiek Ballet](/pictures/dansrichtingen/klassiekballet1.jpg)
+![Klassiek Ballet](/pictures/dansrichtingen/klassiekballet4.jpg)
+
 Groepen:
 
 * 1e, 2e, 3e en 4e jaar
@@ -16,6 +19,10 @@ Groepen:
 
 3x per week worden deze leerlingen getraind volgens de Vaganova methode, hierbij wordt veel aandacht besteed aan de techniek. (Basisgroep - Keurgroep).
 
+![Klassiek Ballet](/pictures/dansrichtingen/klassiekballet2.jpg)
+![Klassiek Ballet](/pictures/dansrichtingen/klassiekballet3.jpg)
+![Klassiek Ballet](/pictures/dansrichtingen/klassiekballet6.jpg)
+
 Groepen:
 
 * Basisgroep (iedereen toegelaten vanaf 10 jaar)
@@ -25,17 +32,18 @@ Groepen:
 
 Speciale les voor afgestudeerden en hogeschoolstudenten. Elke les duurt 2 uren en wordt op semi-professioneel niveau in variatievorm aangeboden. Een veeleisende les op hoog niveau met opleiding Pointes!
 
+![Klassiek Ballet](/pictures/dansrichtingen/klassiekballet5.jpg)
+
 ## Klassiek ballet volwassenen
 
 Stap voor stap kennismaken met de technieken van het klassieke ballet met aandacht voor een correcte lichaamshouding en een duidelijk lichaamsbesef.
+
+![Klassiek Ballet](/pictures/dansrichtingen/klassiekballet7.jpg)
+![Klassiek Ballet](/pictures/dansrichtingen/klassiekballet8.jpg)
 
 ## Klassiek ballet Pointes
 
 Leren dansen op spitsen vanaf 15 jaar. Deze les is alleen toegankelijk voor de leerlingen van klassiek gevorderden C en basisgroep.
 
-![Klassiek Ballet](/pictures/dansrichtingen/klassiekballet1.jpg)
-![Klassiek Ballet](/pictures/dansrichtingen/klassiekballet2.jpg)
-![Klassiek Ballet](/pictures/dansrichtingen/klassiekballet3.jpg)
-![Klassiek Ballet](/pictures/dansrichtingen/klassiekballet4.jpg)
-![Klassiek Ballet](/pictures/dansrichtingen/klassiekballet5.jpg)
-![Klassiek Ballet](/pictures/dansrichtingen/klassiekballet6.jpg)
+![Klassiek Ballet](/pictures/dansrichtingen/klassiekballet9.jpg)
+![Klassiek Ballet](/pictures/dansrichtingen/klassiekballet10.jpg)

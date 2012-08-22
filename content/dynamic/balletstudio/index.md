@@ -12,3 +12,6 @@ De leerlingen oefenen in een mooie professionele balletstudio met aangepaste dan
 * Balletschool Attitude - Ingrid Fonteyne
 * [Stationsstraat 36, 1910 Kampenhout](http://g.co/maps/ayfb8)
 * 016 65 11 79 / 0486 17 02 06
+
+![Ballet Studio](/pictures/balletstudio/balletstudio2.jpg)
+![Ballet Studio](/pictures/balletstudio/balletstudio1.jpg)

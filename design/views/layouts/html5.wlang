@@ -26,6 +26,10 @@
 
   <script src="/js/plugins.js"></script>
   <script src="/js/script.js"></script>
+
+  <script src="/js/libs/galleria-1.2.8.min.js"></script>
+  <script src="/js/libs/flickr/galleria.flickr.min.js"></script>
+
   ?{in_production}{#{google.tracker}{
   <script type="text/javascript">
     var _gaq = _gaq || [];

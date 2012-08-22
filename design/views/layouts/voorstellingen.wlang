@@ -4,7 +4,7 @@
   </nav>
   <article class="span6">
     <h1>${title}</h1>
-    <a id="affiche" href="#" onclick="javascript:openGallery('+{highlight.last}')">
+    <a id="affiche" href="#" onclick="javascript:openGallery('+{album}')">
       <img src="/pictures/${highlight.last}/affiche.jpg">foto's
     </a>
     ~{content}

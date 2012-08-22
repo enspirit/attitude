@@ -11,10 +11,7 @@ class App < Polygon::Base
 
   get '/galleria/:gallery' do
     gallery  = params[:gallery]
-    publicf  = Path(settings.public_folder)
-    pictures = publicf.glob("pictures/#{gallery}/*.jpg")
-    pictures = pictures.map{|f| { :src => "/#{f % publicf}" } }
-    wlang :galleria, :locals => {:pictures => pictures}, :layout => false
+    wlang :galleria, :locals => {:gallery => gallery}, :layout => false
   end
 
   get "/" do

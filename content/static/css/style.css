@@ -78,6 +78,12 @@ header nav span.highlight a {
   padding-top: 150px;
   background: url('img/background.png') no-repeat;
 }
+#main .docenten nav {
+  text-align: center;
+}
+#main .docenten nav span {
+  text-align: right;
+}
 #main .docenten nav img {
   padding-top: 80px;
 }

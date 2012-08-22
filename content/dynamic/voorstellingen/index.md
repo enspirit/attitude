@@ -1,5 +1,6 @@
 ---
 title: Voorstellingen
+album: 72157631175142600
 layout: voorstellingen
 submenu:
 - { url: 2011-ijs,                         label: IJS - 2011 }

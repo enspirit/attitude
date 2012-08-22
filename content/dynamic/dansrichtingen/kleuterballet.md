@@ -11,3 +11,4 @@ Groepen:
 ![Kleuterballet](/pictures/dansrichtingen/kleuterballet1.jpg)
 ![Kleuterballet](/pictures/dansrichtingen/kleuterballet2.jpg)
 ![Kleuterballet](/pictures/dansrichtingen/kleuterballet3.jpg)
+![Kleuterballet](/pictures/dansrichtingen/kleuterballet4.jpg)

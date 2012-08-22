@@ -1,16 +1,23 @@
 <div id="galleria">
-  *{pictures}{
-    <img src="+{src}"/>
-  }
 </div>
-<script src="/js/libs/galleria-1.2.7.min.js"></script>
+
 <script>
+  var gallery = "+{gallery}";
   $(function(){
     Galleria.loadTheme("/js/libs/galleria.classic.min.js");
     Galleria.configure({
-        transition: 'fade',
-        imageCrop: true
+        transition: 'fade'
+        //imageCrop: true
     });
-    Galleria.run('#galleria');
+
+    var Flickr = new Galleria.Flickr();
+    Flickr.set(
+      gallery,
+      function(data){
+        Galleria.run('#galleria', {
+            dataSource: data
+        });
+      }
+    );
   });
 </script>

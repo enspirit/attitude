@@ -7,6 +7,7 @@ Deze mentaliteit moet dringend veranderen om al die jongens de kans te geven op 
 
 Daarom aan alle jongens: als je zin hebt om te dansen moet je naar de balletschool komen! Niemand heeft het recht om je het dansplezier te ontnemen!!
 
+![Jongens en Ballet](/pictures/balletschool/jongensenballet4.jpg)
 ![Jongens en Ballet](/pictures/balletschool/jongensenballet1.jpg)
 ![Jongens en Ballet](/pictures/balletschool/jongensenballet2.jpg)
 ![Jongens en Ballet](/pictures/balletschool/jongensenballet3.jpg)
