@@ -33,6 +33,7 @@ Groepen:
 Speciale les voor afgestudeerden en hogeschoolstudenten. Elke les duurt 2 uren en wordt op semi-professioneel niveau in variatievorm aangeboden. Een veeleisende les op hoog niveau met opleiding Pointes!
 
 ![Klassiek Ballet](/pictures/dansrichtingen/klassiekballet5.jpg)
+![Klassiek Ballet](/pictures/dansrichtingen/klassiekballet11.jpg)
 
 ## Klassiek ballet volwassenen
 

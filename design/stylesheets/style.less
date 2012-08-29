@@ -57,11 +57,15 @@ header nav {
     }
     span.highlight a { font-weight: bold; }
   }
-  article img {
-    width: 350px;
+  article p img {
+    max-width: 200px;
+    max-height: 200px;
     padding: 10px;
-    margin: auto;
-    display: block;
+    margin: 10px;
+    display: inline-block;
+  }
+  article p > img {
+    margin-left: 30px;
   }
   .container {
     min-height: 420px;

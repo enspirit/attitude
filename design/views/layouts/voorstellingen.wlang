@@ -10,6 +10,7 @@
     ~{content}
   </article>
 </div>
+
 <script>
   function openGallery(name) {
     $.get("/galleria/" + name, function(data){
@@ -19,4 +20,5 @@
     return false;
   }
 </script>
+
 <div id="galleria-popup" class="modal hide"></div>
