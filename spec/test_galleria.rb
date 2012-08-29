@@ -10,8 +10,7 @@ describe "/galleria" do
     content_type.should =~ %r{text/html}
   end
 
-  it 'contains some img entries' do
-    body.should =~ %r{<img src="/pictures/voorstellingen/}
+  pending 'uses galleria\'s flickr plugin' do
   end
 
 end
