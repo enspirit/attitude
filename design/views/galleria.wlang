@@ -11,6 +11,9 @@
     });
 
     var Flickr = new Galleria.Flickr();
+    Flickr.setOptions({
+      max: 100
+    });
     Flickr.set(
       gallery,
       function(data){
