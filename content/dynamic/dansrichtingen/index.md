@@ -1,4 +1,5 @@
 ---
+layout: dansrichtingen
 title: Dansrichtingen
 submenu:
 - { url: kleuterballet,  label: Kleuterballet vanaf 4 jaar }

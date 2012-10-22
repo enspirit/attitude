@@ -1,5 +1,6 @@
 ---
 title: Charlotte Thyssen
+layout: docenten
 ---
 ## Studie
 

@@ -1,5 +1,6 @@
 ---
 title: Ellen Van Aken
+layout: docenten
 ---
 ## Opleiding
 

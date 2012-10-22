@@ -1,0 +1,9 @@
+<div class="row">
+  <nav class='span4'>
+    #{submenu}{>{layouts/submenu}}
+    <p>fotografie: Marie-Jeanne Vekemans</p>
+  </nav>
+  <article class="span6">
+    ~{content}
+  </article>
+</div>

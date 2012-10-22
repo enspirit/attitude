@@ -1,0 +1,9 @@
+<div class="row">
+  <nav class='span4'>
+    #{submenu}{>{layouts/submenu}}
+    <img src="/pictures/docenten/${highlight.last}.jpg" alt="${title}"/>
+  </nav>
+  <article class="span6">
+    ~{content}
+  </article>
+</div>

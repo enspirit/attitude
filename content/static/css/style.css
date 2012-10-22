@@ -78,18 +78,27 @@ header nav span.highlight a {
   min-height: 420px;
 }
 #main .columns,
-#main .docenten {
+#main .docenten,
+#main .docenten-index,
+#main .dansrichtingen {
   padding-top: 150px;
   background: url('img/background.png') no-repeat;
 }
-#main .docenten nav {
+#main .docenten nav,
+#main .docenten-index nav {
   text-align: center;
 }
-#main .docenten nav span {
+#main .docenten nav span,
+#main .docenten-index nav span {
   text-align: right;
 }
-#main .docenten nav img {
+#main .docenten nav img,
+#main .docenten-index nav img {
   padding-top: 80px;
+}
+#main .dansrichtingen nav p,
+#main .voorstellingen nav p {
+  font-size: 12px;
 }
 #main .voorstellingen,
 #main .full {
