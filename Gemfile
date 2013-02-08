@@ -3,7 +3,7 @@ source :rubygems
 gem "redcarpet", "~> 2.0.1"  
 gem "sinatra",  :git => "git://github.com/sinatra/sinatra"
 gem 'alf-core', :git => "git://github.com/alf-tool/alf-core"
-gem "polygon",  :path => "../../polygon" #:git => "git://github.com/blambeau/polygon"
+gem "polygon",  :git => "git://github.com/blambeau/polygon"
 gem 'wlang',    :git => "git://github.com/blambeau/wlang", :branch => :wlang2
 
 group :development do
