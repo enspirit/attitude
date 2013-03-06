@@ -24,7 +24,7 @@
 <div id="flash" class="modal hide fade" tabindex="-1" role="dialog" aria-labelledby="flash" aria-hidden="true"
      style="top: 300px; width: 469px; margin-left: -234px">
   <div class="modal-body" style="min-height: 600px; text-align: center;">
-     <img src="/pictures/2013-nieuws/affiche.jpg" width="429px" height="600px"/>
+     <img src="/pictures/2013-nieuws/proficiat.jpg" width="429px" height="600px"/>
    </div>
 </div>
 <script>
