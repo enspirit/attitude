@@ -18,3 +18,7 @@ layout:
   columns
 content:
   ''
+flash:
+  show: false
+  content: |-
+    <img src="/pictures/2013-nieuws/proficiat.jpg" width="429px" height="600px"/>
