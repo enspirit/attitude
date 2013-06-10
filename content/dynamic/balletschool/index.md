@@ -10,4 +10,4 @@ De balletschool biedt een degelijke opleiding die als basis kan dienen voor dive
 
 Dansers van Attitude verzorgden ook verscheidene gastoptredens (Festival van Vlaanderen Mechelen, Grote markt Brussel, Koningin Elisabethzaal Antwerpen t.v.v Artsen zonder Grenzen, Jeugd en Muziek, enz...). Jong Attitude werkte voor film en televisie en ging in 1992 succesvol op tournee doorheen Vlaanderen met de productie “Eenhoorns”.
 
-**Balletschool Attitude start op maandag 3 september 2012. <br/> Optreden op 2 en 3 maart 2013 Sporthal Kampenhout.**
+**Balletschool Attitude start op maandag 2 september 2013.**

@@ -10,10 +10,11 @@ Deze leerlingen volgen een opbouwend programma met jaarlijkse examens. Het 10de 
 
 Groepen:
 
-* 1e, 2e, 3e en 4e jaar
-* Gevorderden A: A1 (5e jaar) A2 (6e jaar)
-* Gevorderden B: B1 (7e jaar) B2 (8e jaar)
-* Gevorderden C: C1 (9e jaar) B2 (10e jaar)
+* klassiek A (kleuters 5 jaar + 1e jaar)
+* klassiek B (2e + 3e  jaar)
+* klassiek C (4e +5e  jaar)
+* klassiek D (6e + 7e + 8e  jaar)
+* klassiek E (9e +10e  jaar)
 
 ## Semi-professioneel klassiek ballet
 
@@ -44,7 +45,7 @@ Stap voor stap kennismaken met de technieken van het klassieke ballet met aandac
 
 ## Klassiek ballet Pointes
 
-Leren dansen op spitsen vanaf 15 jaar. Deze les is alleen toegankelijk voor de leerlingen van klassiek gevorderden C en basisgroep.
+Leren dansen op spitsen vanaf 15 jaar. Deze les is alleen toegankelijk voor de leerlingen van klassiek E, basisgroep, keurgroep en variatieklas.
 
 ![Klassiek Ballet](/pictures/dansrichtingen/klassiekballet9.jpg)
 ![Klassiek Ballet](/pictures/dansrichtingen/klassiekballet10.jpg)

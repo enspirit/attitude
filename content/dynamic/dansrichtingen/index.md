@@ -2,9 +2,9 @@
 layout: dansrichtingen
 title: Dansrichtingen
 submenu:
-- { url: kleuterballet,  label: Kleuterballet vanaf 4 jaar }
-- { url: klassiekballet, label: Klassiek ballet vanaf 6 jaar }
-- { url: jazzballet,     label: Jazzballet vanaf 8 jaar }
+- { url: kleuterballet,  label: Kleuterballet vanaf 2e kleuterklas }
+- { url: klassiekballet, label: Klassiek ballet vanaf 5 jaar }
+- { url: jazzballet,     label: Jazzballet vanaf 7 jaar }
 - { url: modernballet,   label: Modern ballet vanaf 10 jaar }
 - { url: conditiejazz,   label: Conditiejazz volwassenen }
 ---

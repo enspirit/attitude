@@ -4,7 +4,8 @@ layout: docenten
 ---
 ## Studie
 
-KHLeuven, Lerarenopleiding Secundair Onderwijs: Latijn en Wiskunde
+* KHLeuven, Lerarenopleiding Secundair Onderwijs: Latijn en Wiskunde
+* Tilburg (NL): Fontys Hogeschool voor de Kunsten - Bachelor docent dans
 
 ## Dans
 
