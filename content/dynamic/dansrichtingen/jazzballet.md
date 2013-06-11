@@ -18,7 +18,9 @@ Groepen: vanaf het 2e leerjaar
 * Jazz jongeren
 
 ![Jazz Ballet](/pictures/dansrichtingen/jazzballet-12-15-1.jpg)
+![Jazz Ballet](/pictures/dansrichtingen/jazzballet-12-15-2.jpg)
 ![Jazz Ballet](/pictures/dansrichtingen/jazzballet-15-18-1.jpg)
+![Jazz Ballet](/pictures/dansrichtingen/jazzballet-15-18-2.jpg)
 
 * Jazz volwassenen
 

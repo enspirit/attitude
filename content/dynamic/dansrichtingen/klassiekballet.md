@@ -3,7 +3,7 @@ title: Klassiek ballet
 ---
 ## Klassiek ballet
 
-Deze leerlingen volgen een opbouwend programma met jaarlijkse examens. Het 10de jaar (gevorderden C2) legt examens af voor een jury.
+Deze leerlingen volgen een opbouwend programma met jaarlijkse examens. Het 10de jaar (Klassiek E) legt examens af voor een jury.
 
 ![Klassiek Ballet](/pictures/dansrichtingen/klassiekballet1.jpg)
 ![Klassiek Ballet](/pictures/dansrichtingen/klassiekballet4.jpg)
