@@ -109,8 +109,8 @@ layout: full
       <td>19.00u - 20.00u</td>
       <td>Klassiek D<br/>6e + 7e + 8e jaar</td>
       <td>Keurgroep</td>
-      <td></td>
       <td>Pointes B</td>
+      <td>Basisgroep</td>
       <td>Klassiek E<br/>9e + 10e jaar</td>
       <td></td>
     </tr>
