@@ -3,6 +3,7 @@ title: Voorstellingen
 album: 72157631175142600
 layout: voorstellingen
 submenu:
+- { url: 2013-nieuws,                      label: Nieuws - 2013 }
 - { url: 2011-ijs,                         label: IJS - 2011 }
 - { url: 2009-muze,                        label: Muze - 2009 }
 - { url: 2007-tarot,                       label: Tarot (30 jaar) - 2007 }
