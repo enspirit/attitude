@@ -1,6 +1,7 @@
 ---
 title: Groteske - 1999
 album: 72157631175186684
+photograph: Jos Verhoogen
 ---
 Titel cfr. Van Dale:
 

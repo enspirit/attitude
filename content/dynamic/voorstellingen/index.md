@@ -2,7 +2,7 @@
 title: Voorstellingen
 album: 72157631175142600
 layout: voorstellingen
-photograph: Jos Verhoogen
+photograph: J. Verhoogen / S. Vandersmissen
 submenu:
 - { url: 2013-nieuws,                      label: Nieuws - 2013 }
 - { url: 2011-ijs,                         label: IJS - 2011 }

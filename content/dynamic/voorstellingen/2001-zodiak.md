@@ -1,6 +1,7 @@
 ---
 title: Zodiak - 2001
 album: 72157631174987858
+photograph: Jos Verhoogen
 ---
 Reeds in het duister verre verleden keken onze voorouders vol ontzag op naar die geweldige sterrenhemel.
 
