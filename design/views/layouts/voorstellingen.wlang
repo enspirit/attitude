@@ -1,7 +1,7 @@
 <div class="row">
   <nav class='span4'>
     #{submenu}{>{layouts/submenu}}
-    <p>fotografie: Jos Verhoogen</p>
+    <p>fotografie: ${photograph}</p>
   </nav>
   <article class="span6">
     <h1>${title}</h1>

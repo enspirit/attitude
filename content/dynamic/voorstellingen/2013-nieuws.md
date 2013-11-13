@@ -1,6 +1,7 @@
 ---
 title: Nieuws - 2013
 album: 72157637553516545
+photograph: Stef Vandersmissen
 ---
 We ontvangen dagelijks nieuws via allerlei mediavormen: televisie, radio,
 telefoon, kranten, tijdschriften, roddelbladen, enz … We luisteren en kijken
