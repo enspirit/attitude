@@ -1,4 +1,4 @@
-source :rubygems
+source "https://rubygems.org/"
 
 gem "redcarpet", "~> 2.0.1"  
 gem "sinatra",  :git => "git://github.com/sinatra/sinatra"
@@ -19,4 +19,3 @@ group :development do
   gem "quickl",       "~> 0.4.2"
   gem "json",         ">= 0"
 end
-
