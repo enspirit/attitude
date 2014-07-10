@@ -22,7 +22,7 @@ layout: full
       <td></td>
       <td></td>
       <td></td>
-      <td>Klassiek B<br/> 2e + 3e jaar</td>
+      <td>Klassiek B</td>
     </tr>
     <tr>
       <td>10.00u - 11.00u</td>
@@ -55,68 +55,68 @@ layout: full
       <td>13.00u - 14.00u</td>
       <td></td>
       <td></td>
-      <td>Klassiek A<br/>Kleuters 5 + 1e jaar</td>
       <td></td>
       <td></td>
-      <td>Klassiek A<br/>Kleuters 5 + 1e jaar</td>
+      <td></td>
+      <td>Klassiek A</td>
     </tr>
     <tr>
       <td>14.00u - 15.00u</td>
       <td></td>
       <td></td>
-      <td>Klassiek B<br/>2e + 3e jaar</td>
+      <td>Klassiek C</td>
       <td></td>
       <td></td>
-      <td>Kleuterballet<br/>vanaf 4 jaar</td>
+      <td>Kleuterballet</td>
     </tr>
     <tr>
       <td>15.00u - 16.00u</td>
       <td></td>
       <td></td>
-      <td>Klassiek C<br/>4e + 5e jaar</td>
+      <td>Klassiek D</td>
       <td></td>
       <td></td>
-      <td>Modern A</td>
+      <td>Modern ballet A</td>
     </tr>
     <tr>
       <td>16.00u - 17.00u</td>
       <td></td>
       <td></td>
-      <td>Klassiek D<br/>6e + 7e + 8e jaar</td>
+      <td>Klassiek E</td>
       <td></td>
       <td></td>
-      <td>Modern B</td>
+      <td>Modern ballet B</td>
     </tr>
     <tr>
       <td>17.00u - 18.00u</td>
-      <td>Jazz 7-10</td>
-      <td>Klassiek C<br/>4e + 5e jaar</td>
-      <td>Klassiek E<br/>9e + 10e jaar</td>
-      <td>Klassiek A<br/>Kleuters 5 + 1e jaar</td>
-      <td>Jazz 10-12</td>
+      <td>Jazzballet kinderen</td>
+      <td>Klassiek B</td>
+      <td>Klassiek A</td>
+      <td></td>
+      <td>Klassiek C</td>
       <td></td>
     </tr>
     <tr>
       <td>18.00u - 19.00u</td>
-      <td>Klassiek B<br/>2e + 3e jaar</td>
       <td>Basisgroep</td>
       <td>Basisgroep</td>
       <td>Pointes A</td>
+      <td>Klassiek C</td>
       <td>Basisgroep</td>
       <td></td>
     </tr>
     <tr>
       <td>19.00u - 20.00u</td>
-      <td>Klassiek D<br/>6e + 7e + 8e jaar</td>
+      <td>Klassiek D</td>
       <td>Keurgroep</td>
       <td>Pointes B</td>
       <td>Basisgroep</td>
-      <td>Klassiek E<br/>9e + 10e jaar</td>
+      <td>Klassiek E</td>
       <td></td>
     </tr>
     <tr>
       <td>20.00u - 21.00u</td>
-      <td>Klassiek E<br/>9e + 10e jaar</td>
+      <td>Klassiek E</td>
       <td>Keurgroep</td>
       <td></td>
       <td>Jazz jongeren</td>
@@ -125,12 +125,26 @@ layout: full
     </tr>
     <tr>
       <td>21.00u - 22.00u</td>
-      <td>Klassiek Volwassenen</td>
-      <td>Conditiejazz</td>
+      <td>Klassiek ballet volwassenen</td>
+      <td>Conditiejazz volwassenen</td>
       <td></td>
-      <td>Jazz volwassenen</td>
-      <td>Jazz gevorderden</td>
+      <td>Jazzballet volwassenen</td>
+      <td>Jazzballet gevorderden</td>
       <td></td>
     </tr>
   </tbody>
 </table>
+
+* Kleuterballet (2e kleuterklasje)
+* Klassiek A (kleuters 5 jaar + 1e jaar)
+* Klassiek B (2e + 3e jaar)
+* Klassiek C (4e + 5e jaar)
+* Klassiek D (6e + 7e + 8e jaar)
+* Klassiek E (9e + 10e jaar)
+* Pointes A (vanaf 15 jaar)
+* Pointes B (gevorderden)
+* Modern A (vanaf 10 jaar)
+* Modern B (gevorderden)
+* Basisgroep (semi-professioneel klassiek ballet voor leerlingen vanaf 10 jaar)
+* Variatieklas (klassiek ballet + 18 jaar)
+* Keurgroep (semi-professioneel klassiek ballet)
