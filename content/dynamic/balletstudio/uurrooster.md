@@ -119,7 +119,7 @@ layout: full
       <td>Klassiek E</td>
       <td>Keurgroep</td>
       <td></td>
-      <td>Jazz jongeren</td>
+      <td>Jazzballet jongeren</td>
       <td>Keurgroep</td>
       <td></td>
     </tr>
