@@ -1,123 +1,113 @@
-GIT
-  remote: git://github.com/alf-tool/alf-core
-  revision: c41dbe999444c785587c63fd3382017b97a12419
-  specs:
-    alf-core (0.13.0)
-      domain (~> 1.0.0.rc4)
-      myrrha (~> 3.0.0.rc7)
-      path (~> 1.3)
-      sexpr (~> 0.5.1)
-
-GIT
-  remote: git://github.com/blambeau/polygon
-  revision: 9e84ca1d7a0a052b202a54536d16a2e174816ba4
-  specs:
-    polygon (0.9.1)
-      alf-core (~> 0.13.0)
-      json
-      path (~> 1.3.1)
-      quickl (~> 0.4.2)
-      sinatra (~> 1.3)
-      wlang (~> 2.1.1)
-
-GIT
-  remote: git://github.com/blambeau/wlang
-  revision: 544013fe7d6a6259b87611d39d52c1964d41aa44
-  branch: wlang2
-  specs:
-    wlang (2.1.1)
-      backports (~> 2.6)
-      citrus (~> 2.4.1)
-      path (~> 1.3)
-      quickl (~> 0.4.3)
-      temple (~> 0.4.0)
-
-GIT
-  remote: git://github.com/sinatra/sinatra
-  revision: 189bce49f0aa7bb77de37f2936d948c5f033f0c3
-  specs:
-    sinatra (1.4.0)
-      rack (~> 1.4)
-      rack-protection (~> 1.3)
-      tilt (~> 1.3, >= 1.3.3)
-
 GEM
   remote: https://rubygems.org/
   specs:
     addressable (2.2.8)
+    alf-core (0.16.3)
+      domain (~> 1.0)
+      myrrha (~> 3.0)
+      path (~> 1.3)
+      sexpr (~> 0.6.0)
     backports (2.8.2)
     citrus (2.4.1)
-    coderay (1.0.8)
+    coderay (1.1.0)
     daemons (1.1.9)
-    diff-lcs (1.1.3)
-    domain (1.0.0.rc4)
-    eventmachine (1.0.0)
-    guard (1.6.2)
-      listen (>= 0.6.0)
+    diff-lcs (1.2.5)
+    domain (1.0.0)
+    eventmachine (1.0.3)
+    ffi (1.9.3)
+    formatador (0.2.5)
+    guard (1.8.3)
+      formatador (>= 0.2.4)
+      listen (~> 1.3)
       lumberjack (>= 1.0.2)
       pry (>= 0.9.10)
-      terminal-table (>= 1.4.3)
       thor (>= 0.14.6)
-    guard-shell (0.5.1)
+    guard-shell (0.5.2)
       guard (>= 1.1.0)
     http (0.0.2)
-    json (1.7.6)
+    json (1.8.1)
     launchy (2.0.5)
       addressable (~> 2.2.6)
-    listen (0.7.2)
-    lumberjack (1.0.2)
-    method_source (0.8.1)
-    myrrha (3.0.0.rc7)
-      domain (~> 1.0.0.rc3)
-    path (1.3.1)
-    pry (0.9.11.4)
-      coderay (~> 1.0.5)
-      method_source (~> 0.8)
+    listen (1.3.1)
+      rb-fsevent (>= 0.9.3)
+      rb-inotify (>= 0.9)
+      rb-kqueue (>= 0.2)
+    lumberjack (1.0.9)
+    method_source (0.8.2)
+    myrrha (3.0.0)
+      domain (~> 1.0)
+    path (1.3.3)
+    polygon (0.10.0)
+      alf-core (~> 0.16)
+      http (~> 0.0.1)
+      json
+      launchy (~> 2.0)
+      path (~> 1.3)
+      quickl (~> 0.4.2)
+      sinatra (~> 1.4)
+      wlang (~> 2.1)
+    pry (0.10.0)
+      coderay (~> 1.1.0)
+      method_source (~> 0.8.1)
       slop (~> 3.4)
     quickl (0.4.3)
     rack (1.5.2)
-    rack-protection (1.3.2)
+    rack-protection (1.5.3)
       rack
     rack-test (0.6.2)
       rack (>= 1.0)
     rake (0.9.6)
+    rb-fsevent (0.9.4)
+    rb-inotify (0.9.5)
+      ffi (>= 0.5.0)
+    rb-kqueue (0.2.3)
+      ffi (>= 0.5.0)
     redcarpet (2.0.1)
-    rspec (2.12.0)
-      rspec-core (~> 2.12.0)
-      rspec-expectations (~> 2.12.0)
-      rspec-mocks (~> 2.12.0)
-    rspec-core (2.12.2)
-    rspec-expectations (2.12.1)
-      diff-lcs (~> 1.1.3)
-    rspec-mocks (2.12.2)
-    sexpr (0.5.1)
-    slop (3.4.3)
-    temple (0.4.1)
-    terminal-table (1.4.5)
+    rspec (2.99.0)
+      rspec-core (~> 2.99.0)
+      rspec-expectations (~> 2.99.0)
+      rspec-mocks (~> 2.99.0)
+    rspec-core (2.99.1)
+    rspec-expectations (2.99.2)
+      diff-lcs (>= 1.1.3, < 2.0)
+    rspec-mocks (2.99.2)
+    sexpr (0.6.0)
+    sinatra (1.4.5)
+      rack (~> 1.4)
+      rack-protection (~> 1.4)
+      tilt (~> 1.3, >= 1.3.4)
+    slop (3.6.0)
+    temple (0.6.8)
     thin (1.3.1)
       daemons (>= 1.0.9)
       eventmachine (>= 0.12.6)
       rack (>= 1.0.0)
-    thor (0.17.0)
-    tilt (1.3.3)
+    thor (0.19.1)
+    tilt (1.4.1)
+    wlang (2.2.3)
+      backports (~> 2.6)
+      citrus (~> 2.4.1)
+      path (~> 1.3)
+      quickl (~> 0.4.3)
+      temple (~> 0.6)
 
 PLATFORMS
   ruby
 
 DEPENDENCIES
-  alf-core!
+  alf-core (~> 0.16)
   eventmachine (~> 1.0.0.beta.4)
   guard (~> 1.1)
   guard-shell (~> 0.5.1)
   http (~> 0.0.1)
   json
   launchy (~> 2.0.5)
-  polygon!
+  polygon (~> 0.10)
   quickl (~> 0.4.2)
   rack-test (~> 0.6.1)
   rake (~> 0.9.2)
   redcarpet (~> 2.0.1)
   rspec (~> 2.10)
-  sinatra!
+  sinatra (~> 1.4)
   thin (~> 1.3.1)
-  wlang!
+  wlang (~> 2.1)
