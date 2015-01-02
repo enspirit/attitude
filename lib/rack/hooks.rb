@@ -1,15 +1,17 @@
 module Rack
   class Hooks
 
+    HEADERS = {'Content-Type' => "text/plain"}
+
     def initialize(app = nil)
       @hooks = "hooks"
       @root  = nil
       @app   = app
       @not_found = proc{|env|
-        [ 404, {'Content-Type' => "text/plain"}, "Hook not found `#{env['PATH_INFO']}`" ]
+        [ 404, HEADERS, "Hook not found `#{env['PATH_INFO']}`" ]
       }
       @success = proc{|env|
-        [ 200, {'Content-Type' => "text/plain"}, "Hook `#{env['PATH_INFO']}` successfuly executed." ]
+        [ 200, HEADERS, "Hook `#{env['PATH_INFO']}` successfuly executed." ]
       }
       yield(self) if block_given?
     end
@@ -28,6 +30,8 @@ module Rack
       else
         not_found.call(env)
       end
+    rescue => ex
+      [ 500, HEADERS, [ex.message] ]
     end
 
   private
