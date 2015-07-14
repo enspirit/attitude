@@ -58,7 +58,7 @@ layout: full
       <td></td>
       <td></td>
       <td></td>
-      <td>Klassiek A</td>
+      <td>Kleuterballet</td>
     </tr>
     <tr>
       <td>14.00u - 15.00u</td>
@@ -67,7 +67,7 @@ layout: full
       <td>Klassiek C</td>
       <td></td>
       <td></td>
-      <td>Kleuterballet</td>
+      <td>Klassiek A</td>
     </tr>
     <tr>
       <td>15.00u - 16.00u</td>
