@@ -1,5 +1,5 @@
 ---
-title:  Uurrooster 2014-2015
+title:  Uurrooster 2015-2016
 layout: full
 ---
 <table id="uurrooster" class="table table-striped table-bordered table-condensed">
