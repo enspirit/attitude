@@ -1,5 +1,5 @@
 ---
-title:  Uurrooster 2015-2016
+title:  Uurrooster 2016-2017
 layout: full
 ---
 <table id="uurrooster" class="table table-striped table-bordered table-condensed">
@@ -148,3 +148,7 @@ layout: full
 * Basisgroep (semi-professioneel klassiek ballet voor leerlingen vanaf 10 jaar)
 * Variatieklas (klassiek ballet + 18 jaar)
 * Keurgroep (semi-professioneel klassiek ballet)
+* Jazzballet kinderen (7-12 jaar)
+* Jazzballet jonderen (13-18 jaar)
+* Jazzballet volwassenen (+18 jaar)
+* Jazzballet gevorderden (+18 jaar)

@@ -10,6 +10,15 @@ De balletschool biedt een degelijke opleiding die als basis kan dienen voor dive
 
 Dansers van Attitude verzorgden ook verscheidene gastoptredens (Festival van Vlaanderen Mechelen, Grote markt Brussel, Koningin Elisabethzaal Antwerpen t.v.v Artsen zonder Grenzen, Jeugd en Muziek, enz...). Jong Attitude werkte voor film en televisie en ging in 1992 succesvol op tournee doorheen Vlaanderen met de productie “Eenhoorns”.
 
-**Balletschool Attitude start op dinsdag 1 september 2015.**
+**Balletschool Attitude start op maandag 5 september 2016.**
 
-**Proeflessen mogelijk van 1 tot en met 15 september 2015.**
+**Proeflessen mogelijk van 5 tot 18 september 2016.**
+
+**Viering van 40 jaar Balletschool Attitude: OPTREDEN 11 en 12 maart 2017.**
+
+Inschrijven kan per mail, telefonisch of ter plaatse tijdens de eerste les:
+
+* [info@balletschoolattitude.be](info@balletschoolattitude.be)
+* [ingrid.fonteyne@telenet.be](ingrid.fonteyne@telenet.be)
+* 0486 170 206
+* 016 651 179

@@ -15,3 +15,4 @@ De leerlingen oefenen in een mooie professionele balletstudio met aangepaste dan
 
 ![Ballet Studio](/pictures/balletstudio/balletstudio2.jpg)
 ![Ballet Studio](/pictures/balletstudio/balletstudio1.jpg)
+![Balletstudio Attitude Kleedkamer](/pictures/balletstudio/balletstudio3.jpg)
