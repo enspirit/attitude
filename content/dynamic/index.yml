@@ -19,6 +19,6 @@ layout:
 content:
   ''
 flash:
-  show: false
+  show: true
   content: |-
-    <img src="/pictures/2015-dromen/affiche.jpg" width="429px" height="600px"/>
+    <img src="/pictures/2017-fabels-van-fonteyne/affiche.jpg" width="423px" height="600px"/>
