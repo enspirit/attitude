@@ -19,6 +19,6 @@ layout:
 content:
   ''
 flash:
-  show: true
+  show: false
   content: |-
     <img src="/pictures/2017-fabels-van-fonteyne/affiche.jpg" width="423px" height="600px"/>
