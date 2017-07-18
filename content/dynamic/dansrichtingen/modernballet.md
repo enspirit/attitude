@@ -6,7 +6,8 @@ Nieuwe dansrichting gebaseerd op de Limón techniek: gewicht verplaatsen, vallen
 Groepen:
 
 * modern A (basistechnieken)
-* modern B (gevorderden)
+* modern B (halfgevorderden
+* modern C (gevorderden)
 
 ![Modernballet](/pictures/dansrichtingen/modernballet1.jpg)
 ![Modernballet](/pictures/dansrichtingen/modernballet2.jpg)

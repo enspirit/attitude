@@ -1,5 +1,5 @@
 ---
-title:  Uurrooster 2016-2017
+title:  Uurrooster 2017-2018
 layout: full
 ---
 <table id="uurrooster" class="table table-striped table-bordered table-condensed">
@@ -49,7 +49,7 @@ layout: full
       <td></td>
       <td></td>
       <td></td>
-      <td>Variatieklas</td>
+      <td>Keurgroep</td>
     </tr>
     <tr>
       <td>13.00u - 14.00u</td>
@@ -76,20 +76,20 @@ layout: full
       <td>Klassiek D</td>
       <td></td>
       <td></td>
-      <td>Modern ballet A</td>
+      <td></td>
     </tr>
     <tr>
       <td>16.00u - 17.00u</td>
       <td></td>
       <td></td>
-      <td>Klassiek E</td>
+      <td>Basisgroep</td>
       <td></td>
       <td></td>
-      <td>Modern ballet B</td>
+      <td></td>
     </tr>
     <tr>
       <td>17.00u - 18.00u</td>
-      <td>Jazzballet kinderen</td>
+      <td>Jazzballet A</td>
       <td>Klassiek B</td>
       <td>Klassiek A</td>
       <td></td>
@@ -98,10 +98,10 @@ layout: full
     </tr>
     <tr>
       <td>18.00u - 19.00u</td>
+      <td>Jazzballet B</td>
       <td>Basisgroep</td>
+      <td>Modern ballet A</td>
       <td>Basisgroep</td>
-      <td>Pointes A</td>
-      <td>Klassiek C</td>
       <td>Basisgroep</td>
       <td></td>
     </tr>
@@ -109,17 +109,17 @@ layout: full
       <td>19.00u - 20.00u</td>
       <td>Klassiek D</td>
       <td>Keurgroep</td>
-      <td>Pointes B</td>
-      <td>Basisgroep</td>
+      <td>Modern ballet B</td>
+      <td>Pointes A+B</td>
       <td>Klassiek E</td>
       <td></td>
     </tr>
     <tr>
       <td>20.00u - 21.00u</td>
       <td>Klassiek E</td>
-      <td>Keurgroep</td>
-      <td></td>
+      <td>Pointes C</td>
       <td>Jazzballet jongeren</td>
+      <td>Variatieklas</td>
       <td>Keurgroep</td>
       <td></td>
     </tr>
@@ -127,7 +127,7 @@ layout: full
       <td>21.00u - 22.00u</td>
       <td>Klassiek ballet volwassenen</td>
       <td>Conditiejazz volwassenen</td>
-      <td></td>
+      <td>Modern ballet C</td>
       <td>Jazzballet volwassenen</td>
       <td>Jazzballet gevorderden</td>
       <td></td>
@@ -135,20 +135,18 @@ layout: full
   </tbody>
 </table>
 
-* Kleuterballet (2e kleuterklasje)
+* Kleuterballet (vanaf het 2e kleuterklasje)
 * Klassiek A (kleuters 5 jaar + 1e jaar)
 * Klassiek B (2e + 3e jaar)
 * Klassiek C (4e + 5e jaar)
 * Klassiek D (6e + 7e + 8e jaar)
 * Klassiek E (9e + 10e jaar)
-* Pointes A (vanaf 15 jaar)
-* Pointes B (gevorderden)
-* Modern A (vanaf 10 jaar)
-* Modern B (gevorderden)
+* Pointes A+B (vanaf 15 jaar)
+* Pointes C (gevorderden)
+* Jazzballet A (2e + 3e + 4e leerjaar)
+* Jazzballet B (5e + 6e leerjaar)
+* Modern A (vanaf 4e leerjaar)
+* Modern B (half gevorderden)
+* Modern C (gevorderden)
 * Basisgroep (semi-professioneel klassiek ballet voor leerlingen vanaf 10 jaar)
-* Variatieklas (klassiek ballet + 18 jaar)
 * Keurgroep (semi-professioneel klassiek ballet)
-* Jazzballet kinderen (7-12 jaar)
-* Jazzballet jonderen (13-18 jaar)
-* Jazzballet volwassenen (+18 jaar)
-* Jazzballet gevorderden (+18 jaar)
