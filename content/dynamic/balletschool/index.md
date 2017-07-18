@@ -12,7 +12,7 @@ Dansers van Attitude verzorgden ook verscheidene gastoptredens (Festival van Vla
 
 **Balletschool Attitude start op maandag 4 september 2017.**
 
-**Proeflessen mogelijk van van 4 tot 17 september 2017.**
+**Proeflessen mogelijk van 4 tot 17 september 2017.**
 
 Inschrijven kan per mail, telefonisch of ter plaatse tijdens de eerste les:
 
