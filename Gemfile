@@ -8,7 +8,7 @@ gem 'wlang',     "~> 2.3"
 
 group :development do
   gem "http",         "~> 0.0.1"
-  gem "launchy",      "~> 2.0"
+  gem "launchy",      "= 2.0"
   gem "guard",        "~> 1.1"
   gem "guard-shell",  "~> 0.5.1"
   gem "rake",         "~> 10.0"
