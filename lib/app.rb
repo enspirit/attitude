@@ -1,5 +1,6 @@
 require 'polygon'
 require 'helpers'
+require 'json'
 
 class App < Polygon::Base
   helpers Helpers
