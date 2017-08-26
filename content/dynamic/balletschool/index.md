@@ -16,7 +16,7 @@ Dansers van Attitude verzorgden ook verscheidene gastoptredens (Festival van Vla
 
 Inschrijven kan per mail, telefonisch of ter plaatse tijdens de eerste les:
 
-* [info@balletschoolattitude.be](info@balletschoolattitude.be)
-* [ingrid.fonteyne@telenet.be](ingrid.fonteyne@telenet.be)
+* [info@balletschoolattitude.be](mailto:info@balletschoolattitude.be)
+* [ingrid.fonteyne@telenet.be](mailto:ingrid.fonteyne@telenet.be)
 * 0486 170 206
 * 016 651 179
