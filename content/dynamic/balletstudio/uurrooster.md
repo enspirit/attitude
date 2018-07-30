@@ -80,7 +80,7 @@ layout: full
     </tr>
     <tr>
       <td>16.00u - 17.00u</td>
-      <td></td>
+      <td>Modern ballet A</td>
       <td></td>
       <td>Basisgroep</td>
       <td></td>
@@ -100,7 +100,7 @@ layout: full
       <td>18.00u - 19.00u</td>
       <td>Jazzballet B</td>
       <td>Basisgroep</td>
-      <td>Modern ballet A</td>
+      <td>Modern ballet B</td>
       <td>Basisgroep</td>
       <td>Basisgroep</td>
       <td></td>
@@ -109,7 +109,7 @@ layout: full
       <td>19.00u - 20.00u</td>
       <td>Klassiek D</td>
       <td>Keurgroep</td>
-      <td>Modern ballet B</td>
+      <td>Modern ballet jongeren</td>
       <td>Pointes A+B</td>
       <td>Klassiek E</td>
       <td></td>
@@ -126,8 +126,8 @@ layout: full
     <tr>
       <td>21.00u - 22.00u</td>
       <td>Klassiek ballet volwassenen</td>
-      <td>Conditiejazz volwassenen</td>
-      <td>Modern ballet C</td>
+      <td></td>
+      <td>Modern ballet gevorderden</td>
       <td>Jazzballet volwassenen</td>
       <td>Jazzballet gevorderden</td>
       <td></td>
@@ -135,18 +135,19 @@ layout: full
   </tbody>
 </table>
 
-* Kleuterballet (vanaf het 2e kleuterklasje)
+* Basisgroep (vanaf 5e leerjaar)
+* Jazzballet A (1e 2e 3e leerjaar)
+* Jazzballet B (4e 5e 6e leerjaar)
+* Jazzballet jongeren (vanaf 1e middelbaar)
+* Keurgroep (semi-professioneel)
 * Klassiek A (kleuters 5 jaar + 1e jaar)
 * Klassiek B (2e + 3e jaar)
 * Klassiek C (4e + 5e jaar)
-* Klassiek D (6e + 7e + 8e jaar)
-* Klassiek E (9e + 10e jaar)
+* Klassiek D (6e leerjaar + 1e 2e middelbaar)
+* Klassiek E (vanaf 3e  middelbaar)
+* Kleuterballet (vanaf het 2e kleuterklasje)
+* Modern ballet A (1e 2e 3e leerjaar)
+* Modern ballet B (4e 5e 6e leerjaar + 1e middelbaar)
 * Pointes A+B (vanaf 15 jaar)
 * Pointes C (gevorderden)
-* Jazzballet A (2e + 3e + 4e leerjaar)
-* Jazzballet B (5e + 6e leerjaar)
-* Modern A (vanaf 4e leerjaar)
-* Modern B (half gevorderden)
-* Modern C (gevorderden)
-* Basisgroep (semi-professioneel klassiek ballet voor leerlingen vanaf 10 jaar)
-* Keurgroep (semi-professioneel klassiek ballet)
+* Variatieklas (+18 jaar)
