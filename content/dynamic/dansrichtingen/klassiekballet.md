@@ -1,7 +1,7 @@
 ---
 title: Klassiek ballet
 ---
-## Klassiek ballet
+## Klassiek ballet vanaf 5 jaar (3e kleuterklas)
 
 Deze leerlingen volgen een opbouwend programma met jaarlijkse examens. Het 10de jaar (Klassiek E) legt examens af voor een jury.
 

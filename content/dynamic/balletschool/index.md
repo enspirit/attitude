@@ -10,9 +10,11 @@ De balletschool biedt een degelijke opleiding die als basis kan dienen voor dive
 
 Dansers van Attitude verzorgden ook verscheidene gastoptredens (Festival van Vlaanderen Mechelen, Grote markt Brussel, Koningin Elisabethzaal Antwerpen t.v.v Artsen zonder Grenzen, Jeugd en Muziek, enz...). Jong Attitude werkte voor film en televisie en ging in 1992 succesvol op tournee doorheen Vlaanderen met de productie “Eenhoorns”.
 
-**Balletschool Attitude start op maandag 4 september 2017.**
+**Balletschool Attitude start op maandag 3 september 2018.**
 
-**Proeflessen mogelijk van 4 tot 17 september 2017.**
+**Proeflessen mogelijk van 3 tot 16 september 2018.**
+
+**OPTREDEN 23 en 24 februari 2019** in CC De Factorij in Zaventem.
 
 Inschrijven kan per mail, telefonisch of ter plaatse tijdens de eerste les:
 

@@ -2,18 +2,19 @@
 title: Danskalender
 ---
 
-Balletschool Attitude start op maandag 4 september 2017.
+Balletschool Attitude start op maandag 3 september 2018.
 
-Proeflessen mogelijk van 4 tot 17 september 2017.
+Proeflessen mogelijk van 3 tot 16 september 2018.
 
 ## Vakanties en vrije dagen 2017-2018
 
-* Herfstvakantie      - van maandag 30/10/17 tot zondag 05/11/17
-* Wapenstilstand      - zaterdag 11/11/17
-* Wintervakantie      - van maandag 25/12/17 tot zondag 07/01/18
-* Krokusvakantie      - van maandag 12/02/2018 tot zondag 18/02/2018
-* Lentevakantie       - van maandag 02/04/2018 tot zondag 15/04/2018
-* Feest van de arbeid - dinsdag 01/05/18
-* Hemelvaart          - van donderdag 10/05/18 tot zondag 13/05/2018
-* Pinksteren          - maandag 21/05/2018
-* Grote vakantie      - vanaf zondag 01/07/2018
+* Herfstvakantie            - van maandag 29/10/18 tot zondag 04/11/18
+* Wapenstilstand            - zondag 11/11/18
+* Wintervakantie            - van maandag 24/12/18 tot zondag 06/01/19
+* Vrije dag na het optreden - maandag 25/02/19
+* Krokusvakantie            - van maandag 4/03/19 tot zondag 10/03/19
+* Lentevakantie             - van maandag 08/04/19 t.e.m. maandag 22/04/19
+* Feest van de arbeid       - woensdag 01/05/19
+* Hemelvaart                - van donderdag 30/05/19 tot zondag 02/06/19
+* Pinksteren                - maandag 10/06/19
+* Grote vakantie            - vanaf maandag 01/07/19

@@ -15,9 +15,8 @@ haren bij elkaar
 
 ## Modern ballet
 
-jazzbroek + topje 
+legging + topje  of spannend T-shirt
+
 blote voeten
 
 haren bij elkaar
-
-Kledij en schoenen kunnen aangekocht worden in de balletschool (niet verplicht)
