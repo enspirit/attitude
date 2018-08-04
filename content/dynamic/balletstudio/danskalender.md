@@ -6,7 +6,7 @@ Balletschool Attitude start op maandag 3 september 2018.
 
 Proeflessen mogelijk van 3 tot 16 september 2018.
 
-## Vakanties en vrije dagen 2017-2018
+## Vakanties en vrije dagen 2018-2019
 
 * Herfstvakantie            - van maandag 29/10/18 tot zondag 04/11/18
 * Wapenstilstand            - zondag 11/11/18
