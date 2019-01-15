@@ -24,8 +24,8 @@
 ?{doflash}{
   ?{flash.show}{
     <div id="flash" class="modal hide fade" tabindex="-1" role="dialog" aria-labelledby="flash" aria-hidden="true"
-         style="top: 300px; width: 469px; margin-left: -234px">
-      <div class="modal-body" style="min-height: 600px; text-align: center;">
+         style="top: 300px; width: 1024px; margin-left: -512px">
+      <div class="modal-body" style="min-height: 512px; text-align: center;">
          +{flash.content}
        </div>
     </div>
