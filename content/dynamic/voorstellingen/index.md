@@ -4,6 +4,7 @@ album: 72157631175142600
 layout: voorstellingen
 photograph: J. Verhoogen / S. Vandersmissen
 submenu:
+- { url: 2019-brieven,                     label: Brieven - 2019 }
 - { url: 2017-fabels-van-fonteyne,         label: Fabels van Fonteyne - 2017 }
 - { url: 2015-dromen,                      label: Dromen - 2015 }
 - { url: 2013-nieuws,                      label: Nieuws - 2013 }
