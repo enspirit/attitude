@@ -1,6 +1,8 @@
 ---
-title: Kleuterballet
+title: Kleuterballet vanaf 2e kleuterklas
 ---
+## Kleuterballet vanaf 2e kleuterklas
+
 Spelenderwijs worden de kleuters voorbereid op het klassieke ballet. Zij krijgen een aan hun niveau aangepast basisprogramma : dansexpressie, muzikaliteit, ritme, ruimtebesef, lichaamsbesef, lenigheid, kracht,...
 
 Groep: kleuters vanaf 2e kleuterklas

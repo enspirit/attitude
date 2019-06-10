@@ -1,16 +1,11 @@
 ---
 title: Jazzballet
 ---
-## Jazzballet vanaf 6 jaar (1e leerjaar)
+## Jazzballet vanaf 9 jaar (4e leerjaar)
 
 Ingedeeld volgens leeftijd worden de basistechnieken van jazzballet aangeleerd. Het accent ligt hier vooral op dansbeleving.
 
-Groepen: vanaf het 2e leerjaar
-
-* Jazzballet A (1e 2e 3e leerjaar)
-
-![Jazz Ballet](/pictures/dansrichtingen/jazzballet-8-10-1.jpg)
-![Jazz Ballet](/pictures/dansrichtingen/jazzballet-8-10-2.jpg)
+Groepen: vanaf het 4e leerjaar
 
 * Jazzballet B (4e 5e 6e leerjaar)
 

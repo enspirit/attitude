@@ -19,6 +19,6 @@ layout:
 content:
   ''
 flash:
-  show: true
+  show: false
   content: |-
     <img src="/pictures/2019-brieven/affiche.jpg" width="1024px" height="512px"/>
