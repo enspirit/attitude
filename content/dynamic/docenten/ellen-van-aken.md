@@ -1,6 +1,7 @@
 ---
 title: Ellen Van Aken
 layout: docenten
+skipPicture2: false
 ---
 ## Opleiding
 

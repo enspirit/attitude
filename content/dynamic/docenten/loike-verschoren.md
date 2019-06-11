@@ -1,6 +1,7 @@
 ---
 title: Loike Verschoren
 layout: docenten
+skipPicture2: true
 ---
 ## Studie
 

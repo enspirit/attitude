@@ -1,6 +1,7 @@
 ---
 title: Charlotte Thyssen
 layout: docenten
+skipPicture2: false
 ---
 ## Studie
 
