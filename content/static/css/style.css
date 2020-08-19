@@ -140,6 +140,7 @@ header nav span.highlight a {
   text-align: center;
   width: 110px;
   font-size: 14px;
+  white-space: nowrap;
 }
 footer {
   text-align: center;
