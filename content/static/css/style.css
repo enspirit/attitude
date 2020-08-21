@@ -64,6 +64,22 @@ header nav span.highlight a {
 #main nav span.highlight a {
   font-weight: bold;
 }
+#main nav ul.social-links {
+  list-style: none;
+  margin-top: 115px;
+  text-align: left;
+}
+#main nav ul.social-links > li {
+  display: flex;
+  align-items: center;
+}
+#main nav ul.social-links > li > i {
+  width: 40px;
+  text-align: center;
+}
+#main nav ul.social-links > li > a {
+  color: inherit;
+}
 #main article p img {
   max-width: 200px;
   max-height: 200px;
@@ -77,12 +93,16 @@ header nav span.highlight a {
 #main .container {
   min-height: 420px;
 }
+#main .covid19,
 #main .columns,
 #main .docenten,
 #main .docenten-index,
 #main .dansrichtingen {
   padding-top: 150px;
   background: url('img/background.png') no-repeat;
+}
+#main .warn {
+  color: red;
 }
 #main .docenten nav,
 #main .docenten-index nav {
@@ -144,6 +164,7 @@ header nav span.highlight a {
 }
 footer {
   text-align: center;
+  padding: 10px 0;
 }
 footer a,
 footer a:visited {

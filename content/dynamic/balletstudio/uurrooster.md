@@ -169,11 +169,11 @@ layout: full
   </tbody>
 </table>
 
-In het uurrooster is er plaats voorzien voor aanpassingen naargelang de noden en de maatregelen. De balletbarren worden na elke les ontsmet en in de dansruimte zijn er markeringen aangebracht om de onderlinge afstand te verzekeren. Het wisselen van de groepen zal steeds volgens hetzelfde strak patroon gebeuren.
+<p class="warn">In het uurrooster is er plaats voorzien voor aanpassingen naargelang de noden en de maatregelen. De balletbarren worden na elke les ontsmet en in de dansruimte zijn er markeringen aangebracht om de onderlinge afstand te verzekeren. Het wisselen van de groepen zal steeds volgens hetzelfde strak patroon gebeuren.</p>
 
-Iedereen moet stipt aanwezig zijn en ook stipt afgehaald worden!
+<p class="warn">Iedereen moet stipt aanwezig zijn en ook stipt afgehaald worden!</p>
 
-**Als je ziek bent blijf je best thuis!!**
+<p class="warn"><strong>Als je ziek bent blijf je best thuis!!</strong></p>
 
 * Kleuterballet (vanaf het 2e kleuterklasje)
 * Klassiek A (kleuters 5 jaar + 1e jaar)

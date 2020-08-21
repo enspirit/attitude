@@ -15,7 +15,7 @@ haren bij elkaar
 
 ## Modern ballet
 
-legging + topje  of spannend T-shirt
+legging + topje of strak T-shirt
 
 blote voeten
 
@@ -23,7 +23,7 @@ haren bij elkaar
 
 ## Kledij voor een Proefles
 
-legging + topje of spannend T-shirt
+legging + topje of strak T-shirt
 
 sokken of blote voeten
 
