@@ -64,7 +64,7 @@ layout: full
       <td></td>
       <td></td>
       <td>12.20u - 13.10u</td>
-      <td></td>
+      <td>Variatieklas</td>
     </tr>
     <tr>
       <td>13.40u - 14.30u</td>
@@ -90,7 +90,7 @@ layout: full
       <td>15.20u - 16.10u</td>
       <td></td>
       <td></td>
-      <td></td>
+      <td>Basisgroep</td>
       <td></td>
       <td></td>
       <td>14.50u - 15.40u</td>
@@ -100,7 +100,7 @@ layout: full
       <td>16.10u - 17.00u</td>
       <td></td>
       <td></td>
-      <td>Basisgroep</td>
+      <td></td>
       <td></td>
       <td></td>
       <td>15.40u - 16.30u</td>
@@ -129,19 +129,19 @@ layout: full
     <tr>
       <td>18.40u - 19.30u</td>
       <td>Klassiek ballet D</td>
-      <td>Pointes A</td>
+      <td></td>
       <td>Modern ballet<br/>Jongeren</td>
-      <td>Pointes B</td>
+      <td>Pointes A</td>
       <td>Klassiek ballet E</td>
       <td></td>
       <td></td>
     </tr>
     <tr>
       <td>19.30u - 20.20u</td>
-      <td></td>
+      <td>Klassiek ballet E</td>
       <td>Keurgroep</td>
       <td>Jazzballet<br/>Jongeren</td>
-      <td></td>
+      <td>Pointes B</td>
       <td>Keurgroep</td>
       <td></td>
       <td></td>
@@ -150,9 +150,9 @@ layout: full
       <td>20.20u - 21.10u</td>
       <td>Klassiek ballet E</td>
       <td>Pointes C</td>
-      <td></td>
+      <td>Modern ballet<br/>Jongeren</td>
       <td>Variatieklas</td>
-      <td></td>
+      <td>Jazzballet<br/>Gevorderden</td>
       <td></td>
       <td></td>
     </tr>
