@@ -5,14 +5,15 @@ skipPicture2: false
 ---
 ## Studie
 
-* KHLeuven, Lerarenopleiding Secundair Onderwijs: Latijn en Wiskunde
 * Tilburg (NL): Fontys Hogeschool voor de Kunsten - Bachelor docent dans
+* KHLeuven, Lerarenopleiding Secundair Onderwijs: Latijn en Wiskunde
 
 ## Dans
 
-* 2011: docent Modern Ballet (Balletschool Attitude Kampenhout)
+* 2017: Uitvoerend danseres bij dansgezelschap Dansnest, Broedplaats voor Dans (Breda, NL)
+* 2011: Docent Modern Ballet (Balletschool Attitude Kampenhout)
 * 2010: Hedendaagse dans (Jennifer Regidor en Cliff Pots dansschool Aike Raes, Heverlee)
-* 2009: docent kleuterballet (Balletschool Attitude Kampenhout)
+* 2009: Docent kleuterballet (Balletschool Attitude Kampenhout)
 * 2002: Opleiding Jazzballet (Ingrid Fonteyne - Balletschool Attitude Kampenhout)
 * 1997: Opleiding Klassiek Ballet (Ingrid Fonteyne- Balletschool Attitude Kampenhout) (diploma 10 jaar klassiek ballet behaald met 93%)
 
