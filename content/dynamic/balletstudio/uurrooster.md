@@ -160,9 +160,9 @@ layout: full
       <td>21.10u - 22.00u</td>
       <td>Klassiek ballet<br/>Volwassenen</td>
       <td></td>
-      <td>Modern ballet<br/>Gevorderen</td>
+      <td>Modern ballet<br/>Gevorderden</td>
       <td>Jazzballet<br/>Volwassenen</td>
-      <td>Jazzballet<br/>Gevorderen</td>
+      <td>Jazzballet<br/>Gevorderden</td>
       <td></td>
       <td></td>
     </tr>
