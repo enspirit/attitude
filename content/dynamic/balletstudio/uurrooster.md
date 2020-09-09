@@ -129,7 +129,7 @@ layout: full
     <tr>
       <td>18.40u - 19.30u</td>
       <td>Klassiek ballet D</td>
-      <td></td>
+      <td>Pointes C</td>
       <td>Modern ballet<br/>Jongeren</td>
       <td>Pointes A</td>
       <td>Klassiek ballet E</td>
@@ -149,7 +149,7 @@ layout: full
     <tr>
       <td>20.20u - 21.10u</td>
       <td>Klassiek ballet E</td>
-      <td>Pointes C</td>
+      <td></td>
       <td>Modern ballet<br/>Jongeren</td>
       <td>Variatieklas</td>
       <td>Jazzballet<br/>Gevorderden</td>
