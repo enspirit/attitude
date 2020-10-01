@@ -83,7 +83,7 @@ layout: full
       <td>Klassiek ballet D</td>
       <td></td>
       <td></td>
-      <td>14.00u - 14.50u</td>
+      <td>14.10u - 15.00u</td>
       <td>Klassiek ballet A</td>
     </tr>
     <tr>
