@@ -12,46 +12,46 @@ menu:
 - link: false
   label: Balletschool
   submenu:
-  - url: /balletschool
+  - url: /balletschool/
     label: Start
-  - url: /balletschool/mentaliteit
+  - url: /balletschool/mentaliteit/
     label: De mentaliteit
-  - url: /balletschool/jongens-en-ballet
+  - url: /balletschool/jongens-en-ballet/
     label: Jongens & Ballet
 - link: false
   label: Dansrichtingen
   submenu:
-  - url: /dansrichtingen/kleuterballet
+  - url: /dansrichtingen/kleuterballet/
     label: Kleuterballet
-  - url: /dansrichtingen/klassiekballet
+  - url: /dansrichtingen/klassiekballet/
     label: Klassiek ballet
-  - url: /dansrichtingen/pointes
+  - url: /dansrichtingen/pointes/
     label: Pointes
-  - url: /dansrichtingen/modernballet
+  - url: /dansrichtingen/modernballet/
     label: Modern ballet
-  - url: /dansrichtingen/jazzballet
+  - url: /dansrichtingen/jazzballet/
     label: Jazzballet
 - link: false
   label: Lessen
   submenu:
-  - url: /lessen/uurrooster
+  - url: /lessen/uurrooster/
     label: Uurrooster
-  - url: /lessen/docenten
+  - url: /lessen/docenten/
     label: Docenten
-  - url: /lessen/kledij-haartooi
+  - url: /lessen/kledij-haartooi/
     label: Kledij + haartooi
-  - url: /lessen/danskalender
+  - url: /lessen/danskalender/
     label: Danskalender
 - link: false
   label: Foto
   submenu:
-  - url: /fotos/lessen
+  - url: /fotos/lessen/
     label: Lessen
-  - url: /fotos/voorstellingen
+  - url: /fotos/voorstellingen/
     label: Voorstellingen
-  - url: /fotos/balletstudio
+  - url: /fotos/balletstudio/
     label: Balletstudio
-- url: /contact
+- url: /contact/
   label: Contact
   link: true
 layout:

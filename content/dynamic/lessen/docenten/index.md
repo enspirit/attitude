@@ -1,6 +1,6 @@
 ---
 title: Docenten
-submenu:
+thirdMenu:
 - { url: ingrid-fonteyne,   label: Ingrid Fonteyne }
 - { url: charlotte-thyssen, label: Charlotte Thyssen }
 - { url: loike-verschoren,  label: Loike Verschoren }

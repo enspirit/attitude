@@ -1,5 +1,6 @@
 <div class="row">
   <nav class='span4'>
+    >{layouts/thirdMenu}
     <img src="/pictures/docenten/${highlight.last}.jpg" alt="${title}"/>
   </nav>
   <article class="span6">
