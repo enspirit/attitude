@@ -10,10 +10,10 @@ google:
   tracker: UA-3061364-2
 menu:
   - { url: balletschool,   label: Balletschool   }
-  - { url: balletstudio,   label: Balletstudio   }
   - { url: dansrichtingen, label: Dansrichtingen }
-  - { url: docenten,       label: Docenten       }
-  - { url: voorstellingen, label: Voorstellingen }
+  - { url: lessen,         label: Lessen         }
+  - { url: fotos,          label: Foto's         }
+  - { url: contact,        label: Contact        }
 layout:
   columns
 content:

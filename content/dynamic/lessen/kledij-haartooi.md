@@ -7,7 +7,7 @@ balletpak + balletschoenen
 
 haren: dotje of staartje + haarlint of speldjes
 
-## Jazzballet - Conditiejazz
+## Jazzballet
 
 jazzbroek + topje + jazzschoenen/balletschoenen
 
