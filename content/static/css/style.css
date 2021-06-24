@@ -140,15 +140,12 @@ header > nav > ul > li:hover > ul > li {
 #main .docenten-index nav img {
   padding-top: 80px;
 }
-#main .dansrichtingen nav p,
-#main .voorstellingen nav p {
+#main .dansrichtingen nav p {
   font-size: 12px;
 }
-#main .voorstellingen,
 #main .full {
   background: url('img/background-notext.png') no-repeat;
 }
-#main .voorstellingen h1,
 #main .full h1 {
   text-align: right;
   font-variant: normal;
@@ -157,23 +154,6 @@ header > nav > ul > li:hover > ul > li {
 #main .voorstellingen article,
 #main .full article {
   padding-top: 30px;
-}
-#main .voorstellingen nav {
-  min-height: 440px;
-  padding-top: 110px;
-  background: white;
-  opacity: 0.8;
-}
-#main .voorstellingen nav img {
-  width: 200px;
-  padding-top: 20px;
-}
-#main .voorstellingen #affiche {
-  font-size: 12px;
-  text-align: center;
-  width: 200px;
-  float: right;
-  padding: 10px 0px 0px 20px;
 }
 #uurrooster {
   background: white;
@@ -200,6 +180,39 @@ footer hr {
 footer .fa {
   padding: 5px;
   font-size: 120%;
+}
+#main .voorstellingen .intro {
+  display: none;
+  padding: 10px 0;
+}
+#main .voorstellingen .intro.main {
+  display: block;
+}
+#main .voorstellingen #galleria {
+  display: none;
+}
+#main .voorstellingen .overview-container {
+  overflow: auto;
+  padding: 10px;
+}
+#main ul.voorstellingen-overview {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  display: flex;
+  flex-wrap: nowrap;
+}
+#main ul.voorstellingen-overview > li {
+  text-align: center;
+  padding: 20px;
+  display: flex;
+  flex-direction: column;
+}
+#main ul.voorstellingen-overview > li > * {
+  display: block;
+}
+#main ul.voorstellingen-overview img {
+  max-width: 175px;
 }
 #galleria {
   height: 467px;

@@ -1,5 +1,7 @@
 ---
-title: De gouden bal (10 jaar) - 1986
+name: De gouden bal (10 jaar)
+year: 1986
 album: 72157631175155834
+layout: voorstellingen
 photograph: Jos Verhoogen
 ---

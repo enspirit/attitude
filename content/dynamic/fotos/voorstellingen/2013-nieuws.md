@@ -1,6 +1,8 @@
 ---
-title: Nieuws - 2013
+name: Nieuws
+year: 2013
 album: 72157637553516545
+layout: voorstellingen
 photograph: Stef Vandersmissen
 ---
 We ontvangen dagelijks nieuws via allerlei mediavormen: televisie, radio,

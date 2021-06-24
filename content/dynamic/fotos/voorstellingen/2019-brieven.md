@@ -1,6 +1,8 @@
 ---
-title: Brieven - 2019
-album: 72157709017177832
+name: Brieven
+year: 2019
+album: "72157709017177832"
+layout: voorstellingen
 photograph: Stef Vandersmissen – Eric Vandeputte
 ---
 Dankzij de veelzijdigheid van het thema "BRIEVEN" werd onze creativiteit ten volle geprikkeld. Uit een lange lijst van mogelijkheden, selecteerden wij de brieven die ons het meeste inspiratie gaven voor een boeiende choreografie. Na het horen van het scenario, waren ook onze dansers meteen gewonnen voor het idee.
