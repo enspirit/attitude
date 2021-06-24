@@ -1,9 +1,5 @@
 ---
 title: Balletschool Attitude - Kampenhout, Vlaams Brabant
-submenu:
-- { url: '',                label: Start             }
-- { url: mentaliteit,       label: De mentaliteit    }
-- { url: jongens-en-ballet, label: Jongens en Ballet }
 ---
 De balletschool werd opgericht door Ingrid Fonteyne in 1976. In al die jaren heeft Attitude een stevige reputatie opgebouwd in Kampenhout en omstreken. Momenteel telt Attitude zo’n 400 leden. Oud-leerlingen komen reeds een aantal jaren de 2e generatie dansers inschrijven.
 

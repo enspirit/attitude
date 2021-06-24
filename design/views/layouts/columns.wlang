@@ -1,6 +1,5 @@
 <div class="row">
   <nav class='span4'>
-    #{submenu}{>{layouts/submenu}}
     >{layouts/social-links}
   </nav>
   <article class="span6">

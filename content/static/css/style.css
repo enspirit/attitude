@@ -2,27 +2,50 @@ body {
   color: #333333;
   margin-top: 15px;
 }
-header nav {
+header > nav {
   font-family: Tahoma, sans-serif;
   font-size: 18px;
   text-align: center;
   margin-left: 50px;
 }
-header nav span {
-  padding-top: 10px;
-  padding-bottom: 10px;
+header > nav ul {
+  list-style: none;
+  padding: 0;
+  margin: 0;
   background: #b574ba;
 }
-header nav span a,
-header nav span a:visited {
+header > nav ul > li {
+  background: #b574ba;
   color: #333333;
 }
-header nav span a:hover {
-  color: black;
+header > nav ul > li:hover {
+  color: white;
+  cursor: pointer;
+}
+header > nav ul > li > span,
+header > nav ul > li > a {
+  color: inherit;
+  display: block;
+  padding: 10px 15px;
+}
+header > nav ul > li > a:hover {
+  color: white;
   text-decoration: none;
 }
-header nav span.highlight a {
-  color: white;
+header > nav > ul > li {
+  position: relative;
+}
+header > nav > ul > li > ul {
+  display: none;
+  position: absolute;
+  padding-bottom: 5px;
+}
+header > nav > ul > li:hover > ul {
+  display: block;
+}
+header > nav > ul > li:hover > ul > li {
+  white-space: nowrap;
+  width: 166px;
 }
 #main {
   font-size: 1.2em;
@@ -93,7 +116,6 @@ header nav span.highlight a {
 #main .container {
   min-height: 420px;
 }
-#main .covid19,
 #main .columns,
 #main .docenten,
 #main .docenten-index,

@@ -9,11 +9,51 @@ keywords:
 google:
   tracker: UA-3061364-2
 menu:
-  - { url: balletschool,   label: Balletschool   }
-  - { url: dansrichtingen, label: Dansrichtingen }
-  - { url: lessen,         label: Lessen         }
-  - { url: fotos,          label: Foto's         }
-  - { url: contact,        label: Contact        }
+- link: false
+  label: Balletschool
+  submenu:
+  - url: /balletschool
+    label: Start
+  - url: /balletschool/mentaliteit
+    label: De mentaliteit
+  - url: /balletschool/jongens-en-ballet
+    label: Jongens & Ballet
+- link: false
+  label: Dansrichtingen
+  submenu:
+  - url: /dansrichtingen/kleuterballet
+    label: Kleuterballet
+  - url: /dansrichtingen/klassiekballet
+    label: Klassiek ballet
+  - url: /dansrichtingen/pointes
+    label: Pointes
+  - url: /dansrichtingen/modernballet
+    label: Modern ballet
+  - url: /dansrichtingen/jazzballet
+    label: Jazzballet
+- link: false
+  label: Lessen
+  submenu:
+  - url: /lessen/uurrooster
+    label: Uurrooster
+  - url: /lessen/docenten
+    label: Docenten
+  - url: /lessen/kledij-haartooi
+    label: Kledij + haartooi
+  - url: /lessen/danskalender
+    label: Danskalender
+- link: false
+  label: Foto
+  submenu:
+  - url: /fotos/lessen
+    label: Lessen
+  - url: /fotos/voorstellingen
+    label: Voorstellingen
+  - url: /fotos/balletstudio
+    label: Balletstudio
+- url: /contact
+  label: Contact
+  link: true
 layout:
   columns
 content:

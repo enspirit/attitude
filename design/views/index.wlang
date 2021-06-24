@@ -1,8 +1,23 @@
-<header class='container'>
+<header class="container">
   <nav class="row">
+    <ul>
     *{menu}{
-      <span id="link-${url}" class="span2"><a href="/${url}/">${label}</a></span>
+      <li class="span2">
+        ?{link}{
+          <a href="${url}">${label}</a>
+        }{
+          <span>${label}</span>
+          <ul>
+            *{submenu}{
+              <li>
+                <a href="${url}">${label}</a>
+              </li>
+            }
+          </ul>
+        }
+      </li>
     }
+    </ul>
   </nav>
 </header>
 
