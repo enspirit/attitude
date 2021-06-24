@@ -39,6 +39,7 @@ header > nav > ul > li > ul {
   display: none;
   position: absolute;
   padding-bottom: 5px;
+  z-index: 1000;
 }
 header > nav > ul > li:hover > ul {
   display: block;
@@ -87,20 +88,21 @@ header > nav > ul > li:hover > ul > li {
 #main nav span.highlight a {
   font-weight: bold;
 }
-#main nav ul.social-links {
+#main ul.social-links {
+  padding: 0;
+  margin: 0;
   list-style: none;
-  margin-top: 115px;
   text-align: left;
 }
-#main nav ul.social-links > li {
+#main ul.social-links > li {
   display: flex;
   align-items: center;
 }
-#main nav ul.social-links > li > i {
+#main ul.social-links > li > i {
   width: 40px;
   text-align: center;
 }
-#main nav ul.social-links > li > a {
+#main ul.social-links > li > a {
   color: inherit;
 }
 #main article p img {
@@ -194,6 +196,10 @@ footer a:visited {
 }
 footer hr {
   margin: 12px 0px 8px 0px;
+}
+footer .fa {
+  padding: 5px;
+  font-size: 120%;
 }
 #galleria {
   height: 467px;

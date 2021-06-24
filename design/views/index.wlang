@@ -29,11 +29,17 @@
 
 <footer class='container'>
   <hr class='row'/>
-  &copy; 2012-2020 - Balletschool Attitude &mdash;
+  &copy; 2012-2021 &mdash;
+  Balletschool Attitude &mdash;
   Stationsstraat 36, 1910 Kampenhout &mdash;
   <a href="mailto:ingrid.fonteyne@telenet.be">ingrid.fonteyne@telenet.be</a> &mdash;
   partner: <a href='http://www.classandjazz.be' target='_blank'>Class &amp; Jazz</a> &mdash;
-  design: <a href='http://www.chefbe.net' target='_blank'>chefbe.net</a>
+  <a href="https://www.facebook.com/balletschool.attitude.kampenhout/" target="_blank">
+    <i class="fa fa-facebook" aria-hidden="true"></i>
+  </a>
+  <a href="https://www.instagram.com/balletschoolattitude/" target="_blank">
+    <i class="fa fa-instagram" aria-hidden="true"></i>
+  </a>
 </footer>
 
 ?{doflash}{
