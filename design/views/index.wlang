@@ -4,13 +4,13 @@
     *{menu}{
       <li class="span2">
         ?{link}{
-          <a href="${url}">${label}</a>
+          <a class="link-${linkId}" href="${url}">${label}</a>
         }{
-          <span>${label}</span>
+          <a class="link-${linkId}" href="${url}">${label}</a>
           <ul>
             *{submenu}{
               <li>
-                <a href="${url}">${label}</a>
+                <a class="link-${linkId}" href="${url}">${label}</a>
               </li>
             }
           </ul>

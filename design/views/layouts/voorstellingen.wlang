@@ -6,7 +6,7 @@
       <ul class="voorstellingen-overview">
         *{voorstellingen}{
           <li>
-            <a id="link-${id}" href="/fotos/voorstellingen/${id}">
+            <a class="link-${id}" href="/fotos/voorstellingen/${id}">
               <span class="year">${year}</span>
               <img src="/pictures/${id}/affiche.jpg">
               <span class="name">${name}</span>

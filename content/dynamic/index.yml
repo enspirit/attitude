@@ -10,50 +10,72 @@ google:
   tracker: UA-3061364-2
 menu:
 - link: false
+  linkId: balletschool
   label: Balletschool
+  url: /balletschool/
   submenu:
   - url: /balletschool/
     label: Start
+    linkId: balletschool
   - url: /balletschool/mentaliteit/
     label: De mentaliteit
+    linkId: mentaliteit
   - url: /balletschool/jongens-en-ballet/
     label: Jongens & Ballet
 - link: false
+  linkId: dansrichtingen
   label: Dansrichtingen
+  url: /dansrichtingen/kleuterballet/
   submenu:
   - url: /dansrichtingen/kleuterballet/
+    linkId: kleuterballet
     label: Kleuterballet
   - url: /dansrichtingen/klassiekballet/
+    linkId: klassiekballet
     label: Klassiek ballet
   - url: /dansrichtingen/pointes/
+    linkId: pointes
     label: Pointes
   - url: /dansrichtingen/modernballet/
+    linkId: modernballet
     label: Modern ballet
   - url: /dansrichtingen/jazzballet/
+    linkId: jazzballet
     label: Jazzballet
 - link: false
+  linkId: lessen
   label: Lessen
+  url: /lessen/uurrooster/
   submenu:
   - url: /lessen/uurrooster/
+    linkId: uurrooster
     label: Uurrooster
   - url: /lessen/docenten/
     label: Docenten
   - url: /lessen/kledij-haartooi/
+    linkId: kledij-haartooi
     label: Kledij + haartooi
   - url: /lessen/danskalender/
+    linkId: danskalender
     label: Danskalender
 - link: false
-  label: Foto
+  linkId: fotos
+  label: Foto's
+  url: /fotos/lessen/
   submenu:
   - url: /fotos/lessen/
+    linkId: lessen
     label: Lessen
   - url: /fotos/voorstellingen/
+    linkId: voorstellingen
     label: Voorstellingen
   - url: /fotos/balletstudio/
+    linkId: balletstudio
     label: Balletstudio
 - url: /contact/
   label: Contact
   link: true
+  linkId: contact
 layout:
   columns
 content:

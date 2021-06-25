@@ -2,6 +2,17 @@ body {
   color: #333333;
   margin-top: 15px;
 }
+nav ul {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+nav ul a {
+  color: #333;
+}
+nav ul a.highlight {
+  color: #b574ba;
+}
 header > nav {
   font-family: Tahoma, sans-serif;
   font-size: 18px;
@@ -9,9 +20,6 @@ header > nav {
   margin-left: 50px;
 }
 header > nav ul {
-  list-style: none;
-  padding: 0;
-  margin: 0;
   background: #b574ba;
 }
 header > nav ul > li {
@@ -28,6 +36,7 @@ header > nav ul > li > a {
   display: block;
   padding: 10px 15px;
 }
+header > nav ul > li > a.highlight,
 header > nav ul > li > a:hover {
   color: white;
   text-decoration: none;
@@ -222,4 +231,10 @@ footer .fa {
 }
 #galleria {
   height: 467px;
+}
+#main ul.third-menu {
+  margin-left: 120px;
+}
+#main ul.third-menu > li {
+  padding: 5px 0;
 }

@@ -1,9 +1,9 @@
 ---
 title: Docenten
 thirdMenu:
-- { url: ingrid-fonteyne,   label: Ingrid Fonteyne }
-- { url: charlotte-thyssen, label: Charlotte Thyssen }
-- { url: loike-verschoren,  label: Loike Verschoren }
+- { url: ingrid-fonteyne,   linkId: ingrid-fonteyne,   label: Ingrid Fonteyne }
+- { url: charlotte-thyssen, linkId: charlotte-thyssen, label: Charlotte Thyssen }
+- { url: loike-verschoren,  linkId: loike-verschoren,  label: Loike Verschoren }
 layout: docenten-index
 ---
 ## De danspedagogie

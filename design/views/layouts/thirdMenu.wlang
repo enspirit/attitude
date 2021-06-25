@@ -1,7 +1,9 @@
 ?{thirdMenu}{
+  <ul class="third-menu">
   *{thirdMenu}{
-    <span id="link-${url}">
-      <a href="${url}">${label}</a>
-    </span>
+    <li>
+      <a class="link-${linkId}" href="${url}">${label}</a>
+    </li>
   }
+  </ul>
 }

@@ -5,7 +5,7 @@ $(function() {
     //imageCrop: true
   });
   for (i in highlight) {
-    $("#link-" + highlight[i]).addClass("highlight");
+    $(".link-" + highlight[i]).addClass("highlight");
   }
 });
 
