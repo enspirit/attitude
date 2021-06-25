@@ -1,6 +1,5 @@
 ---
 title: Voorstellingen
-album: 72157631175142600
 layout: voorstellingen
 photograph: J. Verhoogen / S. Vandersmissen
 ---

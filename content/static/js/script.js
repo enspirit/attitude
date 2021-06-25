@@ -4,23 +4,24 @@ $(function() {
     transition: 'fade'
     //imageCrop: true
   });
-  $(".voorstellingen-overview li").click(function() {
-    var gallery = $(this).attr("data-album");
-    var url = $(this).attr("data-url");
-    var Flickr = new Galleria.Flickr();
-    Flickr.setOptions({
-      max: 100
-    });
-    Flickr.set(
-      gallery,
-      function (data) {
-        $("#galleria").show();
-        $(".intro").hide();
-        $(".intro."+url).show();
-        Galleria.run('#galleria', {
-          dataSource: data
-        });
-      }
-    );
-  })
+  for (i in highlight) {
+    $("#link-" + highlight[i]).addClass("highlight");
+  }
 });
+
+function setVoorstelligen(album) {
+  console.log(album);
+  var Flickr = new Galleria.Flickr();
+  Flickr.setOptions({
+    max: 100
+  });
+  Flickr.set(
+    album,
+    function (data) {
+      $("#galleria").show();
+      Galleria.run('#galleria', {
+        dataSource: data
+      });
+    }
+  );
+}

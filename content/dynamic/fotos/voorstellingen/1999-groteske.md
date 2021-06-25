@@ -1,8 +1,7 @@
 ---
 name: Groteske
 year: 1999
-album: 72157631175186684
-layout: voorstellingen
+album: "72157631175186684"
 photograph: Jos Verhoogen
 ---
 Titel cfr. Van Dale:

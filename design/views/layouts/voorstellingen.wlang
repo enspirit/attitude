@@ -1,22 +1,24 @@
 <div class="row">
   <article class="span12">
-    <div id="galleria"></div>
-    <div class="intro main">~{content}</div>
-    *{voorstellingen}{
-      <div class="intro ${url}">
-        ~{content}
-      </div>
-    }
+    #{album}{<div id="galleria"></div>}
+    <div class="intro">~{content}</div>
     <div class="container overview-container">
       <ul class="voorstellingen-overview">
         *{voorstellingen}{
-          <li data-album="+{album}" data-url="${url}">
-            <span class="year">${year}</year>
-            <img src="/pictures/${url}/affiche.jpg">
-            <span class="name">${name}</year>
+          <li>
+            <a id="link-${id}" href="/fotos/voorstellingen/${id}">
+              <span class="year">${year}</span>
+              <img src="/pictures/${id}/affiche.jpg">
+              <span class="name">${name}</span>
+            </a>
           </li>
         }
       </ul>
     </div>
   </article>
 </div>
+#{album}{
+<script>
+$(function(){ setVoorstelligen("+{album}"); });
+</script>
+}

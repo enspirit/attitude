@@ -85,9 +85,6 @@ header > nav > ul > li:hover > ul > li {
 #main nav span a:visited {
   color: #b574ba;
 }
-#main nav span.highlight a {
-  font-weight: bold;
-}
 #main ul.social-links {
   padding: 0;
   margin: 0;
@@ -182,18 +179,18 @@ footer .fa {
   font-size: 120%;
 }
 #main .voorstellingen .intro {
-  display: none;
-  padding: 10px 0;
+  padding: 15px 0;
 }
-#main .voorstellingen .intro.main {
+#main .voorstellingen .intro > * {
+  display: none;
+}
+#main .voorstellingen .intro > *:first-child {
   display: block;
-}
-#main .voorstellingen #galleria {
-  display: none;
 }
 #main .voorstellingen .overview-container {
   overflow: auto;
-  padding: 10px;
+  padding: 0;
+  margin: 0;
 }
 #main ul.voorstellingen-overview {
   list-style: none;
@@ -207,9 +204,18 @@ footer .fa {
   padding: 20px;
   display: flex;
   flex-direction: column;
+  color: #333;
 }
-#main ul.voorstellingen-overview > li > * {
+#main ul.voorstellingen-overview > li > a {
+  color: #333;
+}
+#main ul.voorstellingen-overview > li > a.highlight {
+  color: #b574ba;
+  font-weight: bold;
+}
+#main ul.voorstellingen-overview > li > a > * {
   display: block;
+  padding: 3px 0;
 }
 #main ul.voorstellingen-overview img {
   max-width: 175px;
