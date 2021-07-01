@@ -238,3 +238,29 @@ footer .fa {
 #main ul.third-menu > li {
   padding: 5px 0;
 }
+
+#ballets-table tr td,
+#ballets-table tr th {
+  border: none;
+  padding: 5px 20px 5px 0;
+}
+#ballets-table tr td:before {
+  content: "* ";
+}
+#ballets-table {
+  empty-cells: hide;
+}
+
+#main .with-album #galleria {
+  margin: 20px 0;
+}
+
+#main .flex-columns {
+  display: flex;
+}
+#main .flex-columns section {
+  padding: 15px;
+}
+#main .flex-columns ul {
+  margin: 15px;
+}

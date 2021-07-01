@@ -1,0 +1,5 @@
+<div>
+  <div>~{content}</div>
+  <div id="galleria"></div>
+</div>
+<script>$(function(){ setGaleria("+{album}"); });</script>

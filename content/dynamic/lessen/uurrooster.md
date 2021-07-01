@@ -135,23 +135,40 @@ layout: full
   </tbody>
 </table>
 
-* Kleuterballet (vanaf het 2e kleuterklasje)
-* Klassiek A (kleuters 5 jaar + 1e jaar)
-* Klassiek B (2e + 3e jaar)
-* Klassiek C (4e + 5e jaar)
-* Klassiek D (6e leerjaar + 1e 2e middelbaar)
-* Klassiek E (vanaf 3e middelbaar)
-* klassiek ballet volwassenen
-* Variatieklas (+18 jaar)
-* Basisgroep (vanaf 5e leerjaar)
-* Keurgroep (semi-professioneel)
-* Pointes A+B (vanaf 15 jaar)
-* Pointes C (gevorderden)
-* Modern/Jazzballet A (1e 2e 3e leerjaar)
-* Modern ballet B (4e 5e 6e leerjaar + 1e middelbaar)
-* Modern ballet jongeren (vanaf het 2e middelbaar)
-* Modern ballet gevorderden
-* Jazzballet B (4e 5e 6e leerjaar)
-* Jazzballet jongeren (vanaf 1e middelbaar)
-* Jazzballet volwassenen
-* Jazzballet gevorderden (+18 jaar)
+<div class="flex-columns">
+<section>
+<h3>Kassiek ballet</h3>
+<ul>
+<li>Kleuterballet (vanaf het 2e kleuterklasje)</li>
+<li>Klassiek A (kleuters 5 jaar + 1e jaar)</li>
+<li>Klassiek B (2e + 3e jaar)</li>
+<li>Klassiek C (4e + 5e jaar)</li>
+<li>Klassiek D (6e leerjaar + 1e 2e middelbaar)</li>
+<li>Klassiek E (vanaf 3e middelbaar)</li>
+<li>klassiek ballet volwassenen</li>
+<li>Variatieklas (+18 jaar)</li>
+<li>Basisgroep (vanaf 5e leerjaar)</li>
+<li>Keurgroep (semi-professioneel)</li>
+<li>Pointes A+B (vanaf 15 jaar)</li>
+<li>Pointes C (gevorderden)</li>
+</ul>
+</section>
+<section>
+<h3>Modern ballet</h3>
+<ul>
+<li>Modern/Jazzballet A (1e 2e 3e leerjaar)</li>
+<li>Modern ballet B (4e 5e 6e leerjaar + 1e middelbaar)</li>
+<li>Modern ballet jongeren (vanaf het 2e middelbaar)</li>
+<li>Modern ballet gevorderden</li>
+</ul>
+</section>
+<section>
+<h3>Jazzballet</h3>
+<ul>
+<li>Jazzballet B (4e 5e 6e leerjaar)</li>
+<li>Jazzballet jongeren (vanaf 1e middelbaar)</li>
+<li>Jazzballet volwassenen</li>
+<li>Jazzballet gevorderden (+18 jaar)</li>
+</ul>
+</section>
+</div>

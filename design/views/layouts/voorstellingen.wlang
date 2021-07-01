@@ -19,6 +19,6 @@
 </div>
 #{album}{
 <script>
-$(function(){ setVoorstelligen("+{album}"); });
+$(function(){ setGaleria("+{album}"); });
 </script>
 }

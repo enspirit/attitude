@@ -9,7 +9,7 @@ $(function() {
   }
 });
 
-function setVoorstelligen(album) {
+function setGaleria(album) {
   var Flickr = new Galleria.Flickr();
   Flickr.setOptions({
     max: 100
