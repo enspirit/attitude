@@ -86,7 +86,6 @@ GEM
 
 PLATFORMS
   ruby
-  x86_64-darwin-15
 
 DEPENDENCIES
   alf-core (~> 0.16.3)
@@ -104,4 +103,4 @@ DEPENDENCIES
   wlang (~> 2.3)
 
 BUNDLED WITH
-   2.2.1
+   2.0.1
