@@ -8,7 +8,7 @@
           <li>
             <a class="link-${id}" href="/fotos/voorstellingen/${id}">
               <span class="year">${year}</span>
-              <img src="/pictures/${id}/affiche.jpg">
+              <img src="/pictures/fotos/voorstellingen/${id}/affiche.jpg">
               <span class="name">${name}</span>
             </a>
           </li>

@@ -1,7 +1,6 @@
 ---
 title: Charlotte Thyssen
 layout: docenten
-skipPicture2: false
 ---
 ## Studie
 
@@ -16,6 +15,10 @@ skipPicture2: false
 * 2009: Docent kleuterballet (Balletschool Attitude Kampenhout)
 * 2002: Opleiding Jazzballet (Ingrid Fonteyne - Balletschool Attitude Kampenhout)
 * 1997: Opleiding Klassiek Ballet (Ingrid Fonteyne- Balletschool Attitude Kampenhout) (diploma 10 jaar klassiek ballet behaald met 93%)
+
+![](/pictures/docenten/charlotte-thyssen/charlotte1.jpg)
+![](/pictures/docenten/charlotte-thyssen/charlotte2.jpg)
+![](/pictures/docenten/charlotte-thyssen/charlotte3.jpg)
 
 ## Diploma’s
 

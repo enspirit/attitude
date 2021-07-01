@@ -7,7 +7,7 @@ Spelenderwijs worden de kleuters voorbereid op het klassieke ballet. Zij krijgen
 
 Groep: kleuters vanaf 2e kleuterklas
 
-![Kleuterballet](/pictures/dansrichtingen/kleuterballet1.jpg)
-![Kleuterballet](/pictures/dansrichtingen/kleuterballet2.jpg)
-![Kleuterballet](/pictures/dansrichtingen/kleuterballet3.jpg)
-![Kleuterballet](/pictures/dansrichtingen/kleuterballet4.jpg)
+![Kleuterballet](/pictures/dansrichtingen/kleuterballet/kleuterballet1.jpg)
+![Kleuterballet](/pictures/dansrichtingen/kleuterballet/kleuterballet2.jpg)
+![Kleuterballet](/pictures/dansrichtingen/kleuterballet/kleuterballet3.jpg)
+![Kleuterballet](/pictures/dansrichtingen/kleuterballet/kleuterballet4.jpg)

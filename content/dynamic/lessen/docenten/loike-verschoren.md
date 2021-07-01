@@ -1,7 +1,6 @@
 ---
 title: Loike Verschoren
 layout: docenten
-skipPicture2: true
 ---
 ## Studie
 
@@ -19,9 +18,13 @@ skipPicture2: true
 * 1999: klassiek ballet (Ingrid Fonteyne - Balletschool Attitude Kampenhout)
 * 1998: kleuterballet (Ingrid Fonteyne - Balletschool Attitude Kampenhout)
 
+![](/pictures/docenten/loike-verschoren/loike1.jpg)
+![](/pictures/docenten/loike-verschoren/loike2.jpg)
+![](/pictures/docenten/loike-verschoren/loike3.jpg)
+
 ## Dansstages
 
-* Zomerdansstage Bree juli 2018: modern (Manuella Verzwyvel), jazz (Freya Pauwels), floorwork (Benjamin Muller) 
+* Zomerdansstage Bree juli 2018: modern (Manuella Verzwyvel), jazz (Freya Pauwels), floorwork (Benjamin Muller)
 * Internationale dansstage Antwerpen juli 2018: classical (Antoine Vereecken), modern/contemporary (Helder Seabra), modern/jazz + choreo (Audrey Pascal), masterclass jazz (Laurent Flament), modern horton (Laurence De Sloovere)
 * Contemporary & Choreographic Dansstage Brugge april 2018 : Ashley Carter & Vanessa Martínez De Baños
 * Internationale dansstage Antwerpen juli 2017: repertoire Wayne McGragor, modern/jazz + choreo (Audrey Pascal)
@@ -30,7 +33,7 @@ skipPicture2: true
 * Internationale dansstage FEDES Brugge augustus 2015 : klassiek ballet (Christiane Sturnick), jazz (Jac Delsing), horton (Ray Tadio), contemporary (Jason Winters), jazz lyrical (Theresa Pixer), yoga for dancers (Jason Winters)
 * Internationale dansstage Antwerpen juli 2015: classical (Julien Bancillon), modern/jazz (Audrey Pascal)
 * Internationale dansstage Antwerpen juli 2014: classical (Hilde Teurlings), classical (Hans Joachim Tappendorf), modern/jazz (Audrey Pascal), modern (Matteo Moles)
-* Dansstage Antwerpen augustus 2013: klassiek, hedendaags, modern (Isabelle Beernaert) 
+* Dansstage Antwerpen augustus 2013: klassiek, hedendaags, modern (Isabelle Beernaert)
 
 ## Workshops
 

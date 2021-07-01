@@ -11,8 +11,8 @@ Groep:
 
 * Modern/Jazzballet A (1e 2e 3e leerjaar)
 
-![Modern Ballet](/pictures/dansrichtingen/jazzballet-8-10-1.jpg)
-![Modern Ballet](/pictures/dansrichtingen/jazzballet-8-10-2.jpg)
+![Modern Ballet](/pictures/dansrichtingen/modernballet/modernballet1.jpg)
+![Modern Ballet](/pictures/dansrichtingen/modernballet/modernballet2.jpg)
 
 ## Modern ballet vanaf 9 jaar (4e leerjaar)
 
@@ -26,6 +26,5 @@ Groepen (vanaf het 4e leerjaar):
 
 * modern Gevorderden
 
-![Modernballet](/pictures/dansrichtingen/modernballet1.jpg)
-![Modernballet](/pictures/dansrichtingen/modernballet2.jpg)
-![Modernballet](/pictures/dansrichtingen/modernballet3.jpg)
+![Modern Ballet](/pictures/dansrichtingen/modernballet/modernballet3.jpg)
+![Modern Ballet](/pictures/dansrichtingen/modernballet/modernballet4.jpg)

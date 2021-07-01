@@ -10,7 +10,6 @@ $(function() {
 });
 
 function setVoorstelligen(album) {
-  console.log(album);
   var Flickr = new Galleria.Flickr();
   Flickr.setOptions({
     max: 100

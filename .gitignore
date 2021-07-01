@@ -22,6 +22,7 @@ Thumbs.db
 # specific to this
 logs/*.log
 tmp/restart.txt
+tmp/*.tar
 .bundle
 bundle
 vendor
