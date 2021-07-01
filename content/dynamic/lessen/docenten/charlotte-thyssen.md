@@ -2,13 +2,13 @@
 title: Charlotte Thyssen
 layout: docenten
 ---
-**Charlotte Thyssen** zette als 4-jarige kleuter haar eerste danspasjes in Balletschool Attitude. Vanaf toen werd dansen haar passie, en op haar 16e begon ze dan ook zelf les te geven. 
+![](/pictures/docenten/charlotte-thyssen/charlotte1.jpg)
+**Charlotte Thyssen** zette als 4-jarige kleuter haar eerste danspasjes in Balletschool Attitude. Vanaf toen werd dansen haar passie, en op haar 16e begon ze dan ook zelf les te geven.
 
 In 2017 studeerde Charlotte af aan de Academie voor Danseducatie aan Fontys Hogeschool voor de Kunsten (Tilburg), waar ze zich ontwikkelde tot een breed geschoolde dansdocent, danser en choreografe. Sindsdien is ze ook werkzaam als danseres bij het dansgezelschap Dansnest, broedplaats voor dans (Breda).
 
 Charlotte streeft ernaar al haar ervaringen en haar passie voor dans met haar leerlingen te delen. De combinatie van theoretische onderbouwing en vooral veel doen, daagt hen uit om voortdurend nieuwe dingen te ontdekken. Door een centrale focus op dansplezier, kunnen de leerlingen zich openstellen voor deze ontdekkingen, vertrouwen ontwikkelen, zelfzekerheid opbouwen en elke les groeien in hun danskwaliteiten.
 
-![](/pictures/docenten/charlotte-thyssen/charlotte1.jpg)
 ![](/pictures/docenten/charlotte-thyssen/charlotte2.jpg)
 ![](/pictures/docenten/charlotte-thyssen/charlotte3.jpg)
 

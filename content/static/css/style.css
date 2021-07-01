@@ -112,14 +112,11 @@ header > nav > ul > li:hover > ul > li {
   color: inherit;
 }
 #main article p img {
-  max-width: 200px;
-  max-height: 200px;
-  padding: 5px;
+  max-width: 150px;
   margin: 5px;
-  display: inline-block;
-}
-#main article p > img {
-  margin-left: 30px;
+  padding: 5px;
+  display: inline;
+  text-align: center;
 }
 #main .container {
   min-height: 420px;
@@ -263,4 +260,10 @@ footer .fa {
 }
 #main .flex-columns ul {
   margin: 15px;
+}
+
+#main .docenten article > p:first-of-type img {
+  display: block;
+  float: left;
+  margin: 0 15px 15px 0;
 }

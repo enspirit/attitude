@@ -2,6 +2,7 @@
 title: Loike Verschoren
 layout: docenten
 ---
+![](/pictures/docenten/loike-verschoren/loike3.jpg)
 **Loike Verschoren** startte haar dansopleiding op 4-jarige leeftijd in Balletschool Attitude. Doorheen de jaren voegde ze Jazzballet, Modern Ballet en Pointes toe aan haar wekelijkse lessen, waardoor ze meerdere uren in de Balletschool te vinden was. 
 
 Haar grote interesse voor de begeleiding en opleiding van jonge kinderen, bracht Loike tot de studie Leraar Lager Onderwijs. Hier voegde ze later een Bachelor Secundair Onderwijs (Nederlands) aan toe om haar didactische kennis en kwaliteiten nog verder uit te breiden.
@@ -12,7 +13,6 @@ Sinds 2017 geeft Loike les in Balletschool Attitude, waarbij ze onze jonge danse
 
 ![](/pictures/docenten/loike-verschoren/loike1.jpg)
 ![](/pictures/docenten/loike-verschoren/loike2.jpg)
-![](/pictures/docenten/loike-verschoren/loike3.jpg)
 
 ## Opleiding
 
