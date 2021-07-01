@@ -28,5 +28,4 @@ Groepen: vanaf het 4e leerjaar
 * Jazzballet Gevorderden
 
 ![Jazz Ballet](/pictures/dansrichtingen/jazzballet/jazzballet2.jpg)
-
 ![Jazz Ballet](/pictures/dansrichtingen/jazzballet/jazzballet4.jpg)

@@ -7,11 +7,11 @@ Deze leerlingen volgen een opbouwend programma met jaarlijkse examens. Het 10de 
 
 Groepen:
 
-* klassiek A (kleuters 5 jaar + 1e jaar)
-* klassiek B (2e + 3e  jaar)
-* klassiek C (4e +5e  jaar)
-* klassiek D (6e + 7e + 8e  jaar)
-* klassiek E (9e +10e  jaar)
+* Klassiek A (kleuters 5 jaar + 1e jaar)
+* Klassiek B (2e + 3e jaar)
+* Klassiek C (4e + 5e jaar)
+* Klassiek D (6e + 7e + 8e jaar)
+* Klassiek E (9e + 10e jaar)
 
 ![Klassiek Ballet](/pictures/dansrichtingen/klassiekballet/klassiekballet1.jpg)
 ![Klassiek Ballet](/pictures/dansrichtingen/klassiekballet/klassiekballet2.jpg)
@@ -36,6 +36,6 @@ Speciale les voor afgestudeerden en hogeschoolstudenten. Elke les wordt op semi-
 
 ## Klassiek ballet volwassenen
 
-Stap voor stap kennismaken met de technieken van het klassieke ballet met aandacht voor een correcte lichaamshouding en een duidelijk lichaamsbesef.
+Stap voor stap kennismaken met de technieken van het Klassieke Ballet met aandacht voor een correcte lichaamshouding en een duidelijk lichaamsbesef.
 
 ![Klassiek Ballet](/pictures/dansrichtingen/klassiekballet/klassiekvolwassenen1.jpg)

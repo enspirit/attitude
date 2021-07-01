@@ -12,7 +12,7 @@ Groep:
 * Modern/Jazzballet A (1e 2e 3e leerjaar)
 
 ![Modern Ballet](/pictures/dansrichtingen/modernballet/modernballet1.jpg)
-![Modern Ballet](/pictures/dansrichtingen/modernballet/modernballet2.jpg)
+
 
 ## Modern ballet vanaf 9 jaar (4e leerjaar)
 
@@ -20,11 +20,12 @@ Moderne dansrichting gebaseerd op de Limón techniek met veel floorwork: gewicht
 
 Groepen (vanaf het 4e leerjaar):
 
-* modern B (4e 5e 6e leerjaar + 1e middelbaar)
+* Modern B (4e 5e 6e leerjaar + 1e middelbaar)
 
-* modern Jongeren (vanaf 2e middelbaar)
+* Modern Jongeren (vanaf 2e middelbaar)
 
-* modern Gevorderden
+* Modern Gevorderden
 
+![Modern Ballet](/pictures/dansrichtingen/modernballet/modernballet2.jpg)
 ![Modern Ballet](/pictures/dansrichtingen/modernballet/modernballet3.jpg)
 ![Modern Ballet](/pictures/dansrichtingen/modernballet/modernballet4.jpg)

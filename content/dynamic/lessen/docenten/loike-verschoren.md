@@ -2,51 +2,35 @@
 title: Loike Verschoren
 layout: docenten
 ---
-## Studie
+**Loike Verschoren** startte haar dansopleiding op 4-jarige leeftijd in Balletschool Attitude. Doorheen de jaren voegde ze Jazzballet, Modern Ballet en Pointes toe aan haar wekelijkse lessen, waardoor ze meerdere uren in de Balletschool te vinden was. 
 
-* Bachelor Leraar Lager Onderwijs (KHLeuven)
+Haar grote interesse voor de begeleiding en opleiding van jonge kinderen, bracht Loike tot de studie Leraar Lager Onderwijs. Hier voegde ze later een Bachelor Secundair Onderwijs (Nederlands) aan toe om haar didactische kennis en kwaliteiten nog verder uit te breiden.
 
-## Dansopleiding
+Nog steeds gebeten door de dansmicrobe heeft ze haar danservaring tijdens haar studies uitgebreid met lessen Modern/Jazz en Contemporary van onder andere Audrey Pascal en Laurence De Sloovere. Vanaf 2013 neemt ze ook deel aan verscheidene (internationale) workshops en dansstages.
 
-* 2017: modern jazz (Audrey Pascal – Dansstudio Arabesque)
-* 2017: docent kleuterballet en eerste jaar klassiek (Balletschool Attitude Kampenhout)
-* 2016 : contemporary (Audrey Pascal – Studio Hybrid Brussel)
-* 2014: modern jazz (Audrey Pascal & Freya Pauwels – Dansatelier Marleen Sempels Leuven)
-* 2014: modern ballet (Charlotte Thyssen – Balletschool Attitude Kampenhout)
-* 2009: pointes vanaf 15 jaar (Ingrid Fonteyne & Ellen Van Aken - Balletschool Attitude Kampenhout)
-* 2006: jazzballet (Ingrid Fonteyne - Balletschool Attitude Kampenhout)
-* 1999: klassiek ballet (Ingrid Fonteyne - Balletschool Attitude Kampenhout)
-* 1998: kleuterballet (Ingrid Fonteyne - Balletschool Attitude Kampenhout)
+Sinds 2017 geeft Loike les in Balletschool Attitude, waarbij ze onze jonge dansers onder haar vleugels neemt. Met aandacht voor elk kind, focus op creativiteit en een grote dansbeleving, neemt ze haar leerlingen elke les weer mee op een nieuw dansavontuur.
 
 ![](/pictures/docenten/loike-verschoren/loike1.jpg)
 ![](/pictures/docenten/loike-verschoren/loike2.jpg)
 ![](/pictures/docenten/loike-verschoren/loike3.jpg)
 
-## Dansstages
+## Opleiding
 
-* Zomerdansstage Bree juli 2018: modern (Manuella Verzwyvel), jazz (Freya Pauwels), floorwork (Benjamin Muller)
-* Internationale dansstage Antwerpen juli 2018: classical (Antoine Vereecken), modern/contemporary (Helder Seabra), modern/jazz + choreo (Audrey Pascal), masterclass jazz (Laurent Flament), modern horton (Laurence De Sloovere)
-* Contemporary & Choreographic Dansstage Brugge april 2018 : Ashley Carter & Vanessa Martínez De Baños
-* Internationale dansstage Antwerpen juli 2017: repertoire Wayne McGragor, modern/jazz + choreo (Audrey Pascal)
-* Internationale dansstage Antwerpen juli 2016: classical (Julien Bancillon), modern/jazz (Audrey Pascal), Afro Brazilian (Mano Amaro)
-* P.A.R.T.S. 5 days winter workshop februari 2016: classical (Marta Coronado), contemporary (Tono Lachky), rhythm (Michel Debrulle), yoga (Laia Escandell), theory (Ludo Abicht), Rosas Drumming (Clinton Stringer)
-* Internationale dansstage FEDES Brugge augustus 2015 : klassiek ballet (Christiane Sturnick), jazz (Jac Delsing), horton (Ray Tadio), contemporary (Jason Winters), jazz lyrical (Theresa Pixer), yoga for dancers (Jason Winters)
-* Internationale dansstage Antwerpen juli 2015: classical (Julien Bancillon), modern/jazz (Audrey Pascal)
-* Internationale dansstage Antwerpen juli 2014: classical (Hilde Teurlings), classical (Hans Joachim Tappendorf), modern/jazz (Audrey Pascal), modern (Matteo Moles)
-* Dansstage Antwerpen augustus 2013: klassiek, hedendaags, modern (Isabelle Beernaert)
+* KHLeuven, Lerarenopleiding Leraar Lager Onderwijs
+* KHLeuven, Lerarenopleiding Secundair Onderwijs: Nederlands
 
-## Workshops
+## Dansopleiding
 
-* Mano Amaro (afro Brazilian)
-* Sabrina Phillip (modern jazz)
-* Jeremi Lepine (contemporain)
-* Fabio Fiorillo (urban contempo)
-* Freya Pauwels (modern & jazz)
-* Tommy Gryson (jazzfunk)
-* Christophe Carpentier (klassiek ballet)
-* Jeny Bonsenge (afro house)
-* Jason Winters (contemporary & yoga)
-* Audrey Pascal (modern jazz & contemporary)
-* Laurent Flament (modern)
-* Min Hee Bervoets (hedendaagse dans)
-* Els Smekens (floorwork)
+* 1999 - heden: Opleiding Klassiek Ballet (Ingrid Fonteyne - Balletschool Attitude Kampenhout)
+* 2006 - heden: Opleiding Jazzballet (Ingrid Fonteyne & Charlotte Thyssen - Balletschool Attitude Kampenhout)
+* 2009 - heden: Opleiding Pointes (Ingrid Fonteyne & Ellen Van Aken - Balletschool Attitude Kampenhout)
+* 2013 - heden: Deelname aan verscheidene internationale dansstages, waarbij ze o.a. training had in: <br/>
+  ***Klassiek ballet & Pointes***: Antoine Vereecken (Company Wayne McGregor), Julien Bancillon (Geneva Dance Center), Marta Coronado (PARTS), Christiane Sturnick (Ballets Maurice Béjart), Hilde Teurlings (KBVV), Hans Joachim Tappendorf (Duitsland)
+  ***Modern/Contemporary*** (Horton, floorwork, ...): Laurence De Sloovere, Audrey Pascal, Ray Tadio (Alvin Ailey Dance Company), Helder Seabra (Portugal), Jason Winters (SYTYCD Australia), Isabelle Beernaert (SYTYCD)
+  ***Jazzdance***: Freya Pauwels, Jac Delsing, Theresa Pixer
+  ***Masterclasses & Repertoire***: Laurent Flament (SYTYCD), Wayne McGragor
+* 2014 - heden: Opleiding Modern Ballet (Charlotte Thyssen – Balletschool Attitude Kampenhout)
+* 2014 - 2016: Modern Jazz (Audrey Pascal & Freya Pauwels – Dansatelier Marleen Sempels Leuven)
+* 2016 - 2017: Contemporary (Audrey Pascal – Studio Hybrid Brussel)
+* sinds 2017: docent Kleuterballet en Klassiek Ballet (Balletschool Attitude Kampenhout)
+* 2017 - 2019: Modern Jazz (Audrey Pascal – Dansstudio Arabesque)

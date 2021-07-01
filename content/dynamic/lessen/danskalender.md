@@ -2,19 +2,18 @@
 title: Danskalender
 ---
 
-Balletschool Attitude start op dinsdag 1 september 2020.
+Balletschool Attitude start op woensdag 1 september 2021.
 
-Proeflessen mogelijk van 1 tot 15 september 2020.
+Proeflessen mogelijk van 1 tot 15 september 2021.
 
-## Vakanties en vrije dagen 2020-2021
+## Vakanties en vrije dagen 2021-2022
 
-* Herfstvakantie            - van maandag 02/11/20 tot zondag 08/11/20
-* Wapenstilstand            - woensdag 11/11/20
-* Wintervakantie            - van maandag 21/12/20 tot zondag 03/01/21
-* Krokusvakantie            - van maandag 15/02/21 tot zondag 21/02/21
-* Lentevakantie             - van maandag 05/04/21 tot zondag 18/04/21
-* Feest van de arbeid       - zaterdag 01/05/21
-* Hemelvaart                - van donderdag 13/05/21 tot zondag 16/05/21
-* Pinksteren                - maandag 24/05/21
-* Grote vakantie            - vanaf donderdag 01/07/21
+* Herfstvakantie            - van maandag 01/11/21 tot zondag 07/11/21
+* Wapenstilstand            - donderdag 11/11/21
+* Wintervakantie            - van vrijdag 24/12/21 tot zondag 09/01/22
+* Krokusvakantie            - van maandag 28/02/22 tot zondag 06/03/22
+* Lentevakantie             - van maandag 04/04/22 tem paasmaandag 18/04/22
+* Hemelvaart                - van donderdag 26/05/22 tot zondag 29/05/22
+* Pinksteren                - maandag 06/06/22
+* Grote vakantie            - vanaf vrijdag 01/07/22
 
