@@ -16,7 +16,11 @@ class App < Polygon::Base
   end
 
   get "/" do
-    redirect '/balletschool/'
+    redirect '/balletschool/start/'
+  end
+
+  get "/balletschool/" do
+    redirect '/balletschool/start/'
   end
 
   get '/uurrooster.htm' do redirect '/balletstudio/uurrooster/'  end

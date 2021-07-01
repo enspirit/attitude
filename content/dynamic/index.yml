@@ -12,16 +12,17 @@ menu:
 - link: false
   linkId: balletschool
   label: Balletschool
-  url: /balletschool/
+  url: /balletschool/start/
   submenu:
-  - url: /balletschool/
+  - url: /balletschool/start/
     label: Start
-    linkId: balletschool
+    linkId: start
   - url: /balletschool/mentaliteit/
     label: De mentaliteit
     linkId: mentaliteit
   - url: /balletschool/jongens-en-ballet/
     label: Jongens & Ballet
+    linkId: jongens-en-ballet
 - link: false
   linkId: dansrichtingen
   label: Dansrichtingen
@@ -52,6 +53,7 @@ menu:
     label: Uurrooster
   - url: /lessen/docenten/
     label: Docenten
+    linkId: docenten
   - url: /lessen/kledij-haartooi/
     linkId: kledij-haartooi
     label: Kledij + haartooi
