@@ -1,0 +1,11 @@
+<div class="row">
+  <nav class='span4'>
+  </nav>
+  <article class="span6">
+    ~{content}
+    <section class="forms">
+      <a target="_blank" href="https://forms.gle/545ytNLbQPZYhJWeA">Inschrijvingsformulier</a>
+      <a target="_blank" href="https://forms.gle/cd3upzd58QhS7oDG6">Inschrijving Proefles(sen)</a>
+    </section>
+  </article>
+</div>
