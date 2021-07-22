@@ -1,6 +1,7 @@
 <div class="row">
   <nav class='span4'>
     <p>fotografie: Marie-Jeanne Vekemans</p>
+    <a href="/lessen/uurrooster/">Uurrooster</a>
   </nav>
   <article class="span6">
     ~{content}
