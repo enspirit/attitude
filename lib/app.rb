@@ -5,6 +5,14 @@ require 'json'
 class App < Polygon::Base
   helpers Helpers
 
+  ROOT = Path.backfind(".[config.ru]")
+
+  VERSION = Time.now.to_i
+
+  get /css\/style-(\d+).css/ do
+    send_file(ROOT/"public/css/style.css")
+  end
+
   get '/sitemap.xml' do
     content_type "application/xml"
     wlang :sitemap, :locals => sitemap_locals, :layout => false
@@ -34,6 +42,7 @@ class App < Polygon::Base
     path = params[:captures].first || 'balletschool'
     if locals = page_locals(path)
       locals[:doflash] = (path =~ /^balletschool\/?$/)
+      locals[:version] = VERSION
       wlang :index, :locals => locals
     else
       not_found
