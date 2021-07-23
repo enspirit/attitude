@@ -4,8 +4,20 @@
   <article class="span6">
     ~{content}
     <section class="forms">
-      <a target="_blank" href="https://forms.gle/545ytNLbQPZYhJWeA">Inschrijvingsformulier</a>
-      <a target="_blank" href="https://forms.gle/cd3upzd58QhS7oDG6">Inschrijving Proefles(sen)</a>
+      <p><b>Balletschool Attitude start op woensdag 1 september 2021.</b></p>
+      <p><a target="_blank" href="https://forms.gle/545ytNLbQPZYhJWeA">Inschrijvingsformulier</a></p>
+
+      <p><b>Proeflessen mogelijk van 1 tot 15 september 2021.</b></p>
+      <p><a target="_blank" href="https://forms.gle/cd3upzd58QhS7oDG6">Inschrijving Proefles(sen)</a></p>
+    </section>
+    <section class="contact-infos">
+      <h2>Contact</h2>
+      <ul>
+        <li><a href="mailto:info@balletschoolattitude.be">info@balletschoolattitude.be</a></li>
+        <li><a href="mailto:ingrid.fonteyne@telenet.be">ingrid.fonteyne@telenet.be</a></li>
+        <li>0486 170 206</li>
+        <li>016 651 179</li>
+      </ul>
     </section>
   </article>
 </div>

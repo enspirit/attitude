@@ -23,6 +23,9 @@ menu:
   - url: /balletschool/jongens-en-ballet/
     label: Jongens & Ballet
     linkId: jongens-en-ballet
+  - url: /balletschool/inschrijven/
+    label: Inschrijven
+    linkId: inschrijven
 - link: false
   linkId: dansrichtingen
   label: Dansrichtingen
