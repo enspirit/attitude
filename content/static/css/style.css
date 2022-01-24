@@ -271,7 +271,8 @@ footer .fa {
 #main .start section.forms {
   margin-top: 20px;
 }
-#main .start section.forms a {
+#main .start section.forms a,
+a.purple-button {
   width: 200px;
   margin: auto;
   margin-bottom: 20px;
@@ -281,4 +282,9 @@ footer .fa {
   color: white;
   border-radius: 10px;
   text-align: center;
+}
+.open-attitude #main article p img {
+  display: block;
+  margin: auto;
+  max-width: 66%;
 }

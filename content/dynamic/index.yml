@@ -8,6 +8,8 @@ keywords:
   - Balletschool
 google:
   tracker: UA-3061364-2
+bodyClass:
+  default
 menu:
 - link: false
   linkId: balletschool
@@ -26,6 +28,9 @@ menu:
   - url: /balletschool/inschrijven/
     label: Inschrijven
     linkId: inschrijven
+  - url: /balletschool/open-attitude/
+    label: Open Attitude
+    linkId: open-attitude
 - link: false
   linkId: dansrichtingen
   label: Dansrichtingen
