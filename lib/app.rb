@@ -41,7 +41,7 @@ class App < Polygon::Base
   get %r{/(.*)} do
     path = params[:captures].first || 'balletschool'
     if locals = page_locals(path)
-      locals[:doflash] = (path =~ /^balletschool\/?$/)
+      locals[:doflash] = (path =~ /^balletschool\/start\/?$/)
       locals[:version] = VERSION
       wlang :index, :locals => locals
     else

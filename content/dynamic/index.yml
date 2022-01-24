@@ -91,6 +91,6 @@ layout:
 content:
   ''
 flash:
-  show: false
+  show: true
   content: |-
-    <img src="/pictures/2019-brieven/affiche.jpg" width="1024px" height="512px"/>
+    <a href="/balletschool/open-attitude/"><img src="/pictures/balletschool/open-attitude-2022.png"/></a>
