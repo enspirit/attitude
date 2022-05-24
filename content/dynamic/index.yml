@@ -28,9 +28,6 @@ menu:
   - url: /balletschool/inschrijven/
     label: Inschrijven
     linkId: inschrijven
-  - url: /balletschool/open-attitude/
-    label: Open Attitude
-    linkId: open-attitude
 - link: false
   linkId: dansrichtingen
   label: Dansrichtingen
@@ -91,6 +88,5 @@ layout:
 content:
   ''
 flash:
-  show: true
-  content: |-
-    <a href="/balletschool/open-attitude/"><img src="/pictures/balletschool/open-attitude-2022.png"/></a>
+  show: false
+  content: ''
