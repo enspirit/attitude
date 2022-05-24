@@ -2,7 +2,7 @@
 title: Balletschool Attitude - Inschrijven
 layout: start
 ---
-Inschrijven voor het dansjaar 2021-2022 kan snel en eenvoudig online. 
+Inschrijven voor het dansjaar 2022-2023 kan snel en eenvoudig online. 
 Klik hieronder om je inschrijvingsformulier in te vullen en te verzenden. 
 **Let op! Nieuw uurrooster!**
 
