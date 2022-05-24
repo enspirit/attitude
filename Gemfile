@@ -2,7 +2,7 @@ source "https://rubygems.org/"
 
 gem "redcarpet", "~> 2.0.1"
 gem "sinatra",   "~> 1.4"
-gem "polygon",   :git => "git://github.com/blambeau/polygon"
+gem "polygon",   :git => "https://github.com/blambeau/polygon.git"
 gem "alf-core",  "~> 0.16.3"
 gem 'wlang',     "~> 2.3"
 
