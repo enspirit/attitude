@@ -79,6 +79,9 @@ menu:
   - url: /fotos/balletstudio/
     linkId: balletstudio
     label: Balletstudio
+  - url: /fotos/open-attitude/
+    linkId: open-attitude
+    label: Open Attitude
 - url: /contact/
   label: Contact
   link: true
