@@ -11,3 +11,6 @@ up:
 
 tests:
 	bundle exec rake spec
+
+krestart:
+	kubectl -n chefbe rollout restart deployment/balletschoolattitude
