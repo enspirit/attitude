@@ -20,9 +20,9 @@ Moderne dansrichting gebaseerd op de Limón techniek met veel floorwork: gewicht
 
 Groepen (vanaf het 4e leerjaar):
 
-* Modern B (4e 5e 6e leerjaar + 1e middelbaar)
+* Modern B (4e 5e 6e leerjaar)
 
-* Modern Jongeren (vanaf 2e middelbaar)
+* Modern Jongeren (vanaf 1e middelbaar)
 
 * Modern Gevorderden
 

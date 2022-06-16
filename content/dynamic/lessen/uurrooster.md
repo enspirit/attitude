@@ -1,5 +1,5 @@
 ---
-title:  Uurrooster 2020-2021
+title:  Uurrooster 2022-2023
 layout: full
 ---
 <table id="uurrooster" class="table table-striped table-bordered table-condensed">
@@ -157,8 +157,8 @@ layout: full
 <h3>Modern ballet</h3>
 <ul>
 <li>Modern/Jazzballet A (1e 2e 3e leerjaar)</li>
-<li>Modern ballet B (4e 5e 6e leerjaar + 1e middelbaar)</li>
-<li>Modern ballet jongeren (vanaf het 2e middelbaar)</li>
+<li>Modern ballet B (4e 5e 6e leerjaar)</li>
+<li>Modern ballet jongeren (vanaf het 1e middelbaar)</li>
 <li>Modern ballet gevorderden</li>
 </ul>
 </section>

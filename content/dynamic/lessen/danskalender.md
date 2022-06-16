@@ -2,12 +2,6 @@
 title: Danskalender
 ---
 
-## Vakanties en vrije dagen 2021-2022
-
-* Hemelvaart                - van donderdag 26/05/22 tot zondag 29/05/22
-* Pinksteren                - maandag 06/06/22
-* Grote vakantie            - vanaf vrijdag 01/07/22
-
 ## Info dansjaar 2022-2023
 
 Balletschool Attitude start het nieuwe dansjaar op donderdag 1 september 2022.
@@ -25,4 +19,3 @@ Proeflessen zijn mogelijk van 1 tot 18 september 2022.
 * Hemelvaart                - van donderdag 18/05/23 tot zondag 21/05/23
 * Pinksteren                - maandag 29/05/23
 * Grote vakantie            - vanaf zaterdag 01/07/23
-
