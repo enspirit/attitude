@@ -2,24 +2,9 @@
 title: Balletschool Attitude - Kampenhout, Vlaams Brabant
 layout: start
 ---
-Balletschool Attitude danst 'HET SPEL' op zaterdag 8 en zondag 9 april 2023 in CC De Factorij te Zaventem! Ruim 200 dansers nemen je mee op een reis doorheen de tijd, waar spel, strategie, geluk en behendigheid een belangrijke rol spelen. Laat je verrassen door prachtige choreografieën, originele muziekmontages, professionele belichting en schitterende kostuums! Een niet te missen spektakel voor jong en oud!
+Balletschool Attitude danste 'HET SPEL' op zaterdag 8 en zondag 9 april 2023 in CC De Factorij te Zaventem! Ruim 200 dansers namen je mee op een reis doorheen de tijd, waar spel, strategie, geluk en behendigheid een belangrijke rol speelden. Van het optreden werden schitterende foto's en een professionele HD filmopname gemaakt. Deze kunt u via onderstaand formulier bestellen. Dansers kunnen hier ook hun persoonlijk kostuum reserveren. 
 
-Tickets verkrijgbaar via <a href="https://www.ccdefactorij.be">www.ccdefactorij.be</a>
-
-Hier alvast een korte impressie:
-
-<video
-  width="100%"
-  height="auto"
-  controls
-  poster="https://storage.googleapis.com/chefbe-web-public/balletschoolattitude/20230403%20-%20Het%20Spel%20(video%20poster).png">
-  <source
-    src="https://storage.googleapis.com/chefbe-web-public/balletschoolattitude/20230403%20-%20Het%20Spel.mp4"
-    type="video/mp4">
-  Your browser does not support the video tag.
-</video>
-
-Beelden: LDW Produkties
+Formulier in te vullen voor 30 april: <a href="[https://forms.gle/m84XiAeqUPwPoVBW9]">Verkoop FOTO's - FILM - KOSTUMERING</a>
 
 *Balletschool Attitude*
 De balletschool werd opgericht door Ingrid Fonteyne in 1976. In al die jaren heeft Attitude een stevige reputatie opgebouwd in Kampenhout en omstreken. Momenteel telt Attitude zo’n 400 leden. Oud-leerlingen komen reeds een aantal jaren de 2e generatie dansers inschrijven.
