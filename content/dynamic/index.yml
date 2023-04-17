@@ -91,6 +91,6 @@ layout:
 content:
   ''
 flash:
-  show: true
+  show: false
   content: |-
     <img src="/pictures/fotos/voorstellingen/2023-het-spel/affiche.jpg" height="640px" />
