@@ -2,20 +2,21 @@
 title: Danskalender
 ---
 
-## Info dansjaar 2022-2023
+## Info dansjaar 2023-2024
 
-Balletschool Attitude start het nieuwe dansjaar op donderdag 1 september 2022.
+Balletschool Attitude start het nieuwe dansjaar op maandag 4 september 2023.
 
-Proeflessen zijn mogelijk van 1 tot 18 september 2022.
+Proeflessen zijn mogelijk van 4 tot 17 september 2023.
 
 ## Vakanties en vrije dagen 2022-2023
 
-* Herfstvakantie            - van maandag 31/10/22 tot zondag 06/10/22
-* Wapenstilstand            - vrijdag 11/11/22
-* Wintervakantie            - van zaterdag 23/12/22 tot zondag 08/01/23
-* Krokusvakantie            - van maandag 20/02/23 tot zondag 26/02/23
-* Lentevakantie             - van maandag 03/04/23 tot zondag 16/04/23
-* Optreden                  - zaterdag 8 en zondag 9 april 2023 (paasweekend)
-* Hemelvaart                - van donderdag 18/05/23 tot zondag 21/05/23
-* Pinksteren                - maandag 29/05/23
-* Grote vakantie            - vanaf zaterdag 01/07/23
+* Herfstvakantie            - van maandag 30/10/23 tot zondag 05/11/23
+* Wapenstilstand            - zaterdag 11/11/23
+* Wintervakantie            - van maandag 25/12/23 tot zondag 07/01/24
+* Krokusvakantie            - van maandag 12/02/24 tot zondag 18/02/24
+* Open Attitude             - zondag 25 februari 2024
+* Lentevakantie             - van maandag 01/04/24 tot zondag 14/04/24
+* Dag van de Arbeid         - woensdag 01/05/24
+* Hemelvaart                - van donderdag 09/05/24 tot zondag 12/05/24
+* Pinksteren                - maandag 20/05/24
+* Grote vakantie            - vanaf maandag 01/07/24
