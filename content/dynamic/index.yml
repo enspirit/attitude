@@ -28,6 +28,9 @@ menu:
   - url: /balletschool/inschrijven/
     label: Inschrijven
     linkId: inschrijven
+  - url: /balletschool/gdpr-beleid/
+    label: GDPR beleid
+    linkId: gdpr-beleid
 - link: false
   linkId: dansrichtingen
   label: Dansrichtingen
