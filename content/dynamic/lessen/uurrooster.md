@@ -91,7 +91,7 @@ layout: full
       <td>17.00u - 18.00u</td>
       <td>Modern/Jazz A</td>
       <td></td>
-      <td>Basisgroep</td>
+      <td>Modern ballet B</td>
       <td></td>
       <td></td>
       <td></td>
@@ -100,7 +100,7 @@ layout: full
       <td>18.00u - 19.00u</td>
       <td>Jazzballet B</td>
       <td>Basisgroep</td>
-      <td>Modern ballet B</td>
+      <td>Basisgroep</td>
       <td>Pointes A</td>
       <td>Basisgroep</td>
       <td></td>
