@@ -14,78 +14,78 @@ menu:
 - link: false
   linkId: balletschool
   label: Balletschool
-  url: /balletschool/start/
+  url: "/balletschool/start/"
   submenu:
-  - url: /balletschool/start/
+  - url: "/balletschool/start/"
     label: Start
     linkId: start
-  - url: /balletschool/mentaliteit/
+  - url: "/balletschool/mentaliteit/"
     label: De mentaliteit
     linkId: mentaliteit
-  - url: /balletschool/jongens-en-ballet/
+  - url: "/balletschool/jongens-en-ballet/"
     label: Jongens & Ballet
     linkId: jongens-en-ballet
-  - url: /balletschool/inschrijven/
+  - url: "/balletschool/inschrijven/"
     label: Inschrijven
     linkId: inschrijven
-  - url: /balletschool/gdpr-beleid/
+  - url: "/balletschool/gdpr-beleid/"
     label: GDPR beleid
     linkId: gdpr-beleid
 - link: false
   linkId: dansrichtingen
   label: Dansrichtingen
-  url: /dansrichtingen/kleuterballet/
+  url: "/dansrichtingen/kleuterballet/"
   submenu:
-  - url: /dansrichtingen/kleuterballet/
+  - url: "/dansrichtingen/kleuterballet/"
     linkId: kleuterballet
     label: Kleuterballet
-  - url: /dansrichtingen/klassiekballet/
+  - url: "/dansrichtingen/klassiekballet/"
     linkId: klassiekballet
     label: Klassiek ballet
-  - url: /dansrichtingen/pointes/
+  - url: "/dansrichtingen/pointes/"
     linkId: pointes
     label: Pointes
-  - url: /dansrichtingen/modernballet/
+  - url: "/dansrichtingen/modernballet/"
     linkId: modernballet
     label: Modern ballet
-  - url: /dansrichtingen/jazzballet/
+  - url: "/dansrichtingen/jazzballet/"
     linkId: jazzballet
     label: Jazzballet
 - link: false
   linkId: lessen
   label: Lessen
-  url: /lessen/uurrooster/
+  url: "/lessen/uurrooster/"
   submenu:
-  - url: /lessen/uurrooster/
+  - url: "/lessen/uurrooster/"
     linkId: uurrooster
     label: Uurrooster
-  - url: /lessen/docenten/
+  - url: "/lessen/docenten/"
     label: Docenten
     linkId: docenten
-  - url: /lessen/kledij-haartooi/
+  - url: "/lessen/kledij-haartooi/"
     linkId: kledij-haartooi
     label: Kledij + haartooi
-  - url: /lessen/danskalender/
+  - url: "/lessen/danskalender/"
     linkId: danskalender
     label: Danskalender
 - link: false
   linkId: fotos
   label: Foto's
-  url: /fotos/lessen/
+  url: "/fotos/lessen/"
   submenu:
-  - url: /fotos/lessen/
+  - url: "/fotos/lessen/"
     linkId: lessen
     label: Lessen
-  - url: /fotos/voorstellingen/
+  - url: "/fotos/voorstellingen/"
     linkId: voorstellingen
     label: Voorstellingen
-  - url: /fotos/balletstudio/
+  - url: "/fotos/balletstudio/"
     linkId: balletstudio
     label: Balletstudio
-  - url: /fotos/open-attitude/
+  - url: "/fotos/open-attitude/"
     linkId: open-attitude
     label: Open Attitude
-- url: /contact/
+- url: "/contact/"
   label: Contact
   link: true
   linkId: contact
