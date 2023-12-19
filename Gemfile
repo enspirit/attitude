@@ -11,7 +11,7 @@ group :development do
   gem "launchy",      "= 2.0"
   gem "guard",        "~> 1.1"
   gem "guard-shell",  "~> 0.5.1"
-  gem "rake",         "~> 10.0"
+  gem "rake",         "~> 12.3"
   gem "rack-test",    "~> 0.6.1"
   gem "rspec",        "~> 2.10"
   gem "quickl",       "~> 0.4.2"
