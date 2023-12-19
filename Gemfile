@@ -1,6 +1,6 @@
 source "https://rubygems.org/"
 
-gem "redcarpet", ">= 2.0.1", '< 3.0'
+gem "redcarpet", ">= 2.0.1", "< 4.0"
 gem "sinatra",   ">= 1.4", '< 2.0'
 gem "polygon",   :git => "https://github.com/blambeau/polygon.git"
 gem "alf-core",  "~> 0.16.3"
