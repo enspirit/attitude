@@ -94,6 +94,6 @@ layout:
 content:
   ''
 flash:
-  show: false
+  show: true
   content: |-
-    <img src="/pictures/fotos/voorstellingen/2023-het-spel/affiche.jpg" height="640px" />
+    <img src="/pictures/fotos/voorstellingen/2024-open-attitude/affiche.jpg" height="640px" />
