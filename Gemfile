@@ -1,7 +1,7 @@
 source "https://rubygems.org/"
 
-gem "redcarpet", "~> 2.0.1"
-gem "sinatra",   "~> 1.4"
+gem "redcarpet", ">= 2.0.1", '< 3.0'
+gem "sinatra",   ">= 1.4", '< 2.0'
 gem "polygon",   :git => "https://github.com/blambeau/polygon.git"
 gem "alf-core",  "~> 0.16.3"
 gem 'wlang',     "~> 2.3"
