@@ -1,5 +1,5 @@
 ---
-title:  Uurrooster 2022-2023
+title:  Uurrooster 2024-2025
 layout: full
 ---
 <table id="uurrooster" class="table table-striped table-bordered table-condensed">

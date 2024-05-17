@@ -94,6 +94,6 @@ layout:
 content:
   ''
 flash:
-  show: true
+  show: false
   content: |-
     <img src="/pictures/fotos/voorstellingen/2024-open-attitude/affiche.jpg" height="640px" />

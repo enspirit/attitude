@@ -5,9 +5,9 @@ layout:
 ---
 ## Contact
 
-* Balletschool Attitude - Ingrid Fonteyne
+* Balletschool Attitude - Charlotte Thyssen
 * [Stationsstraat 36, 1910 Kampenhout](http://g.co/maps/ayfb8)
-* 016 65 11 79 / 0486 17 02 06
+* [0488 175 999](tel:+32488175999)
 * [info@balletschoolattitude.be](mailto:info@balletschoolattitude.be)
 
 ## Social links
